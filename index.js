@@ -24,10 +24,10 @@ const generate = async () => {
 
   if (!quote) return;
   
-  const today = new Date();
-  const dd = String(today.getDate()).padStart(2, `0`);
-  const mm = String(today.getMonth() + 1).padStart(2, `0`);
-  const yyyy = today.getFullYear();
+  var today = new Date();
+  var dd = String(today.getDate()).padStart(2, `0`);
+  var mm = String(today.getMonth() + 1).padStart(2, `0`);
+  var yyyy = today.getFullYear();
   
   today = mm + `/` + dd + `/` + yyyy;
   fs.writeFileSync("README.md", `*Quote of the Day (${today}):*\n\n_**${quote}**_\n\n${author}`);
