@@ -23,8 +23,14 @@ const generate = async () => {
   const { quote, author } = await getQuote();
 
   if (!quote) return;
-
-  fs.writeFileSync("README.md", `_**${quote}**_\n\n${author}`);
+  
+  const today = new Date();
+  const dd = String(today.getDate()).padStart(2, '0');
+  const mm = String(today.getMonth() + 1).padStart(2, '0');
+  const yyyy = today.getFullYear();
+  
+  today = mm + '/' + dd + '/' + yyyy;
+  fs.writeFileSync("README.md", '*Quote of the Day (${today}):*\n\n_**${quote}**_\n\n${author}');
 };
 
 generate();
