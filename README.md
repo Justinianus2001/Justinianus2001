@@ -1,5 +1,5 @@
-*Quote of the Day (09/08/2020):*
+*Quote of the Day (09/09/2020):*
 
-_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+_**Extend beyond your preconceived limits!**_
 
-Christiane Northrup
+Lorii Myers
