@@ -1,5 +1,5 @@
-*Quote of the Day (09/13/2020):*
+*Quote of the Day (09/14/2020):*
 
-_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
+_**A quitter never wins and a winner never quits**_
 
-Veronica A. Shoffstall
+Napoleon Hill
