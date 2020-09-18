@@ -1,5 +1,5 @@
-*Quote of the Day (09/17/2020):*
+*Quote of the Day (09/18/2020):*
 
-_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
+_**I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life as a champion.'**_
 
-Jean Shinoda Bolen
+Mohamad Ali
