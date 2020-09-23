@@ -1,3 +1,5 @@
-_**An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!**_
+*Quote of the Day (09/23/2020):*
 
-G. Kingsley Ward
+_**If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.**_
+
+Steve Maraboli
