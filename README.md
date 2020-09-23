@@ -1,5 +1,5 @@
-*Quote of the Day (09/22/2020):*
+*Quote of the Day (09/23/2020):*
 
-_**Find a purpose in life so big it will challenge every capacity to be at your best.**_
+_**If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.**_
 
-David O. McKay
+Steve Maraboli
