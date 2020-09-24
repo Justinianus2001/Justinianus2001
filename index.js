@@ -22,7 +22,10 @@ const getQuote = async () => {
 const generate = async () => {
   const { quote, author } = await getQuote();
 
-  if (!quote) return;
+  if (!quote)
+	  return;
+  if (!author)
+	  author = `Anonymous`
 
   var today = new Date();
   var dd = String(today.getDate()).padStart(2, `0`);
