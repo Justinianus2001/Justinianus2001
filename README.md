@@ -1,5 +1,5 @@
-*Quote of the Day (09/27/2020):*
+*Quote of the Day (09/28/2020):*
 
-_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
+_**Don't count the days; make the days count.**_
 
-Mark Bezos
+Mohamad Ali
