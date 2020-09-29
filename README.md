@@ -1,5 +1,5 @@
-*Quote of the Day (09/28/2020):*
+*Quote of the Day (09/29/2020):*
 
-_**Don't count the days; make the days count.**_
+_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
 
-Mohamad Ali
+Lorii Myers
