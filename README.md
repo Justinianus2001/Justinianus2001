@@ -1,5 +1,5 @@
-*Quote of the Day (09/29/2020):*
+*Quote of the Day (09/30/2020):*
 
-_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
+_**The beginning of freedom is the realization that you are not the possessing entity the thinker.**_
 
-Lorii Myers
+Eckhart Tolle
