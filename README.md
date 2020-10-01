@@ -1,5 +1,5 @@
-*Quote of the Day (09/30/2020):*
+*Quote of the Day (10/01/2020):*
 
-_**The beginning of freedom is the realization that you are not the possessing entity the thinker.**_
+_**Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.**_
 
-Eckhart Tolle
+Elizabeth Gilbert
