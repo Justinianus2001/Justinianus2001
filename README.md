@@ -1,5 +1,5 @@
-*Quote of the Day (10/04/2020):*
+*Quote of the Day (10/05/2020):*
 
-_**Core passions and aspirations should be consistent and in sync.**_
+_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
 
-Lorii Myers
+Daireth Winehouse
