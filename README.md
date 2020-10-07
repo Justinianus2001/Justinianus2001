@@ -1,5 +1,5 @@
-*Quote of the Day (10/06/2020):*
+*Quote of the Day (10/07/2020):*
 
-_**Every day you have a choice to be honest or deceptive. If you commit to telling the truth, you will win. You’ll win more trust, you’ll win more business, and you’ll win more peace of mind. You’ll break the system and be even more successful.**_
+_**Think ahead. Don't let day-to-day operations drive out planning.**_
 
-Dale Patridge
+Donald Rumsfeld
