@@ -1,5 +1,5 @@
-*Quote of the Day (10/07/2020):*
+*Quote of the Day (10/08/2020):*
 
-_**Think ahead. Don't let day-to-day operations drive out planning.**_
+_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
 
-Donald Rumsfeld
+Sidney Greenberg
