@@ -1,5 +1,5 @@
-*Quote of the Day (10/12/2020):*
+*Quote of the Day (10/13/2020):*
 
-_**A show of confidence raises the bar**_
+_**Do not be afraid to give up the good for the great.**_
 
-Lorii Myers
+Kenny Rogers
