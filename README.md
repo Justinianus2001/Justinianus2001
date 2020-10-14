@@ -1,5 +1,5 @@
-*Quote of the Day (10/13/2020):*
+*Quote of the Day (10/14/2020):*
 
-_**Do not be afraid to give up the good for the great.**_
+_**Hang Out with People Who are Better than You.**_
 
-Kenny Rogers
+Warren Buffett
