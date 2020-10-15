@@ -1,5 +1,5 @@
-*Quote of the Day (10/14/2020):*
+*Quote of the Day (10/15/2020):*
 
-_**Hang Out with People Who are Better than You.**_
+_**When it comes to winning, you need the skill and the will.**_
 
-Warren Buffett
+Frank Tyger
