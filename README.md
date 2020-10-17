@@ -1,5 +1,5 @@
-*Quote of the Day (10/16/2020):*
+*Quote of the Day (10/17/2020):*
 
-_**Things are not bad in themselves, but our cowardice makes them so.**_
+_**There's such a thin line between winning and losing.**_
 
-Michel de Montaigne
+John R. Tunis
