@@ -1,5 +1,8 @@
-*Quote of the Day (10/17/2020):*
+*Quote of the Day (10/18/2020):*
 
-_**There's such a thin line between winning and losing.**_
+_**One does not accumulate but eliminate .
+It is not daily increase but daily
+decrease. The height of cultivation
+always runs to simplicity.**_
 
-John R. Tunis
+Bruce Lee
