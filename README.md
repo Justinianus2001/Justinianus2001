@@ -1,5 +1,5 @@
-*Quote of the Day (10/23/2020):*
+*Quote of the Day (10/24/2020):*
 
-_**We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.**_
+_**Named must your fear be before banish it you can.**_
 
-Sheryl Sandberg
+Yoda
