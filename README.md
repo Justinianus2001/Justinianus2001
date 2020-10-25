@@ -1,5 +1,5 @@
-*Quote of the Day (10/24/2020):*
+*Quote of the Day (10/25/2020):*
 
-_**Named must your fear be before banish it you can.**_
+_**Man needs his difficulties because they are necessary to enjoy success.**_
 
-Yoda
+A. P. J. Abdul Kalam
