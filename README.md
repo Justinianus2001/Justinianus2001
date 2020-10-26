@@ -1,5 +1,5 @@
-*Quote of the Day (10/25/2020):*
+*Quote of the Day (10/26/2020):*
 
-_**Man needs his difficulties because they are necessary to enjoy success.**_
+_**Keep a positive mind. Remember, a failed attempt doesn't make you a failure—giving up does.**_
 
-A. P. J. Abdul Kalam
+Lorii Myers
