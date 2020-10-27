@@ -1,5 +1,5 @@
-*Quote of the Day (10/26/2020):*
+*Quote of the Day (10/27/2020):*
 
-_**Keep a positive mind. Remember, a failed attempt doesn't make you a failure—giving up does.**_
+_**If you cannot do great things, do small things in a great way.**_
 
-Lorii Myers
+Napoleon Hill
