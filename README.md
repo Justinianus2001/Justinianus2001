@@ -1,5 +1,5 @@
-*Quote of the Day (10/27/2020):*
+*Quote of the Day (10/28/2020):*
 
-_**If you cannot do great things, do small things in a great way.**_
+_**Don't be tempted to break momentum—work through it.**_
 
-Napoleon Hill
+Lorii Myers
