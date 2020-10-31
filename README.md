@@ -1,5 +1,5 @@
-*Quote of the Day (10/30/2020):*
+*Quote of the Day (10/31/2020):*
 
-_**Remember that you are very special,no one can play your role better than you.**_
+_**The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.**_
 
-Damayanti Patra
+Charles Bukowski
