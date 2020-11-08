@@ -1,5 +1,5 @@
-*Quote of the Day (11/07/2020):*
+*Quote of the Day (11/08/2020):*
 
-_**There is no one right way. Just figure out what works for you!**_
+_**If we ever stop thinking about the person we want to become, we stop learning and taking risks.**_
 
-Lorii Myers
+Sally Blount
