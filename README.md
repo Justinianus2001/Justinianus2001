@@ -1,5 +1,5 @@
-*Quote of the Day (11/08/2020):*
+*Quote of the Day (11/09/2020):*
 
-_**If we ever stop thinking about the person we want to become, we stop learning and taking risks.**_
+_**Things are not bad in themselves, but our cowardice makes them so.**_
 
-Sally Blount
+Michel de Montaigne
