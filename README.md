@@ -1,5 +1,5 @@
-*Quote of the Day (11/09/2020):*
+*Quote of the Day (11/10/2020):*
 
-_**Things are not bad in themselves, but our cowardice makes them so.**_
+_**Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.**_
 
-Michel de Montaigne
+Arthur Ashe
