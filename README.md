@@ -1,5 +1,5 @@
-*Quote of the Day (11/12/2020):*
+*Quote of the Day (11/13/2020):*
 
-_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
+_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
 
-Michelle Obama
+Martina Navratilova
