@@ -1,5 +1,5 @@
-*Quote of the Day (11/17/2020):*
+*Quote of the Day (11/18/2020):*
 
-_**Excellence prospers in the absence of excuses.**_
+_**Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.**_
 
-Lorii Myers
+Henry David Thoreau
