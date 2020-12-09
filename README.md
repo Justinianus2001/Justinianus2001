@@ -1,5 +1,5 @@
-*Quote of the Day (12/08/2020):*
+*Quote of the Day (12/09/2020):*
 
-_**It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.**_
+_**If you cannot do great things, do small things in a great way.**_
 
-Mohamad Ali
+Napoleon Hill
