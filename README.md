@@ -1,5 +1,5 @@
-*Quote of the Day (12/09/2020):*
+*Quote of the Day (12/10/2020):*
 
-_**If you cannot do great things, do small things in a great way.**_
+_**Find a purpose in life so big it will challenge every capacity to be at your best.**_
 
-Napoleon Hill
+David O. McKay
