@@ -1,5 +1,5 @@
-*Quote of the Day (12/12/2020):*
+*Quote of the Day (12/13/2020):*
 
-_**Where there is ruin, there is hope for a treasure.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
-Rumi
+Winston Churchill
