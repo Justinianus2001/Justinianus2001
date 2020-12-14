@@ -1,5 +1,5 @@
-*Quote of the Day (12/13/2020):*
+*Quote of the Day (12/14/2020):*
 
-_**Let our advance worrying become advance thinking and planning.**_
+_**The best way to not feel hopeless is to get up and do something. Don't wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.**_
 
-Winston Churchill
+Barack Obama
