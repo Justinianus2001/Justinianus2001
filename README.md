@@ -1,5 +1,5 @@
-*Quote of the Day (12/14/2020):*
+*Quote of the Day (12/15/2020):*
 
-_**The best way to not feel hopeless is to get up and do something. Don't wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.**_
+_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
 
-Barack Obama
+Charles F. Kettering
