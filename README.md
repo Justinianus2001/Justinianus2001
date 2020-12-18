@@ -1,5 +1,5 @@
-*Quote of the Day (12/17/2020):*
+*Quote of the Day (12/18/2020):*
 
-_**I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'**_
+_**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**_
 
-Mohamad Ali
+Lorii Myers
