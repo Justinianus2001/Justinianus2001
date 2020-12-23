@@ -1,5 +1,5 @@
-*Quote of the Day (12/22/2020):*
+*Quote of the Day (12/23/2020):*
 
-_**You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.**_
+_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
 
-Brene Brown
+Sidney Greenberg
