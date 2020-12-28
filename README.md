@@ -1,8 +1,5 @@
-*Quote of the Day (12/27/2020):*
+*Quote of the Day (12/28/2020):*
 
-_**One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.**_
+_**If you cannot do great things, do small things in a great way.**_
 
-Bruce Lee
+Napoleon Hill
