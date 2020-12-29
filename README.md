@@ -1,5 +1,5 @@
-*Quote of the Day (12/28/2020):*
+*Quote of the Day (12/29/2020):*
 
-_**If you cannot do great things, do small things in a great way.**_
+_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
 
-Napoleon Hill
+Christiane Northrup
