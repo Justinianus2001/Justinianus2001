@@ -1,5 +1,5 @@
-*Quote of the Day (12/29/2020):*
+*Quote of the Day (12/30/2020):*
 
-_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+_**You must have a positive self perception in order to transcend anything.**_
 
-Christiane Northrup
+Steve Maraboli
