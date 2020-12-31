@@ -1,5 +1,5 @@
-*Quote of the Day (12/30/2020):*
+*Quote of the Day (12/31/2020):*
 
-_**You must have a positive self perception in order to transcend anything.**_
+_**I know for sure that what we dwell on is who we become.**_
 
-Steve Maraboli
+Oprah Winfrey
