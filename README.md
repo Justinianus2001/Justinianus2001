@@ -1,5 +1,5 @@
-*Quote of the Day (12/31/2020):*
+*Quote of the Day (01/01/2021):*
 
-_**I know for sure that what we dwell on is who we become.**_
+_**Stop complaining. Start creating.**_
 
-Oprah Winfrey
+Dale Patridge
