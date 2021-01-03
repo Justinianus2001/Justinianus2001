@@ -1,5 +1,5 @@
-*Quote of the Day (01/02/2021):*
+*Quote of the Day (01/03/2021):*
 
-_**Do not let what you cannot do interfere with what you can do.**_
+_**Core passions and aspirations should be consistent and in sync.**_
 
-John Wooden
+Lorii Myers
