@@ -1,5 +1,5 @@
-*Quote of the Day (01/06/2021):*
+*Quote of the Day (01/07/2021):*
 
-_**You will never win if you never begin.**_
+_**I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'**_
 
-Helen Rowland
+Mohamad Ali
