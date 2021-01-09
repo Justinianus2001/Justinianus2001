@@ -1,5 +1,5 @@
-*Quote of the Day (01/08/2021):*
+*Quote of the Day (01/09/2021):*
 
-_**Win any way as long as you can get away with it. Nice guys finish last.**_
+_**Where there is ruin, there is hope for a treasure.**_
 
-Leo Durocher
+Rumi
