@@ -1,5 +1,5 @@
-*Quote of the Day (01/09/2021):*
+*Quote of the Day (01/10/2021):*
 
-_**Where there is ruin, there is hope for a treasure.**_
+_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
 
-Rumi
+Lorii Myers
