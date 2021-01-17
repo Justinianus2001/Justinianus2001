@@ -1,5 +1,5 @@
-*Quote of the Day (01/16/2021):*
+*Quote of the Day (01/17/2021):*
 
-_**Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.**_
+_**You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).**_
 
-William James Moore
+Edmund Hillary
