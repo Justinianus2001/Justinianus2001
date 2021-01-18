@@ -1,5 +1,5 @@
-*Quote of the Day (01/17/2021):*
+*Quote of the Day (01/18/2021):*
 
-_**You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).**_
+_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
 
-Edmund Hillary
+Sidney Greenberg
