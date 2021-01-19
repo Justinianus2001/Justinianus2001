@@ -1,5 +1,5 @@
-*Quote of the Day (01/18/2021):*
+*Quote of the Day (01/19/2021):*
 
-_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
+_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
 
-Sidney Greenberg
+Christiane Northrup
