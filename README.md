@@ -1,5 +1,5 @@
-*Quote of the Day (01/22/2021):*
+*Quote of the Day (01/23/2021):*
 
-_**Think ahead. Don't let day-to-day operations drive out planning.**_
+_**Positive anything is better than negative thinking.**_
 
-Donald Rumsfeld
+Elbert Hubbard
