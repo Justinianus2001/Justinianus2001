@@ -1,5 +1,5 @@
-*Quote of the Day (01/28/2021):*
+*Quote of the Day (01/29/2021):*
 
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
 
-Japanese Proverb
+Mark Bezos
