@@ -1,5 +1,5 @@
-*Quote of the Day (01/29/2021):*
+*Quote of the Day (01/30/2021):*
 
-_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
+_**You must have a positive self perception in order to transcend anything.**_
 
-Mark Bezos
+Steve Maraboli
