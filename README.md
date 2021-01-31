@@ -1,5 +1,5 @@
-*Quote of the Day (01/30/2021):*
+*Quote of the Day (01/31/2021):*
 
-_**You must have a positive self perception in order to transcend anything.**_
+_**The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.**_
 
-Steve Maraboli
+Bill Murray
