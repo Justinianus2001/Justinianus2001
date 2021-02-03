@@ -1,5 +1,5 @@
-*Quote of the Day (02/02/2021):*
+*Quote of the Day (02/03/2021):*
 
-_**Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.**_
+_**He who is not courageous enough to take risks will accomplish nothing in life.**_
 
-Matthew Keith Groves
+Mohamad Ali
