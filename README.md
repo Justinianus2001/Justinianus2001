@@ -1,5 +1,5 @@
-*Quote of the Day (02/04/2021):*
+*Quote of the Day (02/05/2021):*
 
-_**When it comes to winning, you need the skill and the will.**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Frank Tyger
+Paul Brown
