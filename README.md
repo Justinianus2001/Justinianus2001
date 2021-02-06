@@ -1,5 +1,8 @@
-*Quote of the Day (02/05/2021):*
+*Quote of the Day (02/06/2021):*
 
-_**When you win, say nothing. When you lose, say less.**_
+_**One does not accumulate but eliminate.
+It is not daily increase but daily
+decrease. The height of cultivation
+always runs to simplicity.**_
 
-Paul Brown
+Bruce Lee
