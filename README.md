@@ -1,5 +1,5 @@
-*Quote of the Day (02/10/2021):*
+*Quote of the Day (02/11/2021):*
 
-_**Think ahead. Don't let day-to-day operations drive out planning.**_
+_**Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.**_
 
-Donald Rumsfeld
+Henry David Thoreau
