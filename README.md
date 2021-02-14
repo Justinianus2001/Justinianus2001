@@ -1,5 +1,5 @@
-*Quote of the Day (02/13/2021):*
+*Quote of the Day (02/14/2021):*
 
-_**Winning is not everything, but the effort to win is.**_
+_**Where there is ruin, there is hope for a treasure.**_
 
-Zig Ziglar
+Rumi
