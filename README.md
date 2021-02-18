@@ -1,5 +1,5 @@
-*Quote of the Day (02/17/2021):*
+*Quote of the Day (02/18/2021):*
 
-_**The determination to win is the better part of winning.**_
+_**What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am?**_
 
-Daisaku Ikeda
+Brene Brown
