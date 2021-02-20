@@ -1,5 +1,5 @@
-*Quote of the Day (02/19/2021):*
+*Quote of the Day (02/20/2021):*
 
-_**Don't count the days; make the days count.**_
+_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
 
-Mohamad Ali
+Honore de Balzac
