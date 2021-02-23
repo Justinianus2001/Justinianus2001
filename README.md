@@ -1,5 +1,5 @@
-*Quote of the Day (02/22/2021):*
+*Quote of the Day (02/23/2021):*
 
-_**Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.**_
+_**People who are crazy enough to think they can change the world, are the ones who do.**_
 
-Stephen Richards
+Apple Computers
