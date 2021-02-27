@@ -1,5 +1,5 @@
-*Quote of the Day (02/26/2021):*
+*Quote of the Day (02/27/2021):*
 
-_**Failure is the condiment that gives success its flavor.**_
+_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
 
-Truman Capote
+Jack Ma
