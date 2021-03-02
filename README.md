@@ -1,5 +1,5 @@
-*Quote of the Day (03/01/2021):*
+*Quote of the Day (03/02/2021):*
 
-_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
+_**Beyond a certain point there is no return. This point has to be reached.**_
 
-Phil Grimshaw
+Franz Kafka
