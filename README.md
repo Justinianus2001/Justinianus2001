@@ -1,5 +1,5 @@
-*Quote of the Day (03/02/2021):*
+*Quote of the Day (03/03/2021):*
 
-_**Beyond a certain point there is no return. This point has to be reached.**_
+_**If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.**_
 
-Franz Kafka
+Jack Ma
