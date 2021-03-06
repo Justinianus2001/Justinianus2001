@@ -1,5 +1,5 @@
-*Quote of the Day (03/05/2021):*
+*Quote of the Day (03/06/2021):*
 
-_**Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.**_
+_**I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.**_
 
-Zaha Hadid
+Elon Musk
