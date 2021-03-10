@@ -1,5 +1,5 @@
-*Quote of the Day (03/09/2021):*
+*Quote of the Day (03/10/2021):*
 
-_**There's such a thin line between winning and losing.**_
+_**We don't have to do all of it alone. We were never meant to.**_
 
-John R. Tunis
+Brene Brown
