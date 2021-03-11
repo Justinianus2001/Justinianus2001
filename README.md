@@ -1,5 +1,5 @@
-*Quote of the Day (03/10/2021):*
+*Quote of the Day (03/11/2021):*
 
-_**We don't have to do all of it alone. We were never meant to.**_
+_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
 
-Brene Brown
+Dale Carnegie
