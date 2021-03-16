@@ -1,5 +1,5 @@
-*Quote of the Day (03/15/2021):*
+*Quote of the Day (03/16/2021):*
 
-_**I am an optimist. It does not seem too much use being anything else..**_
+_**Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.**_
 
-Winston Churchill
+Zaha Hadid
