@@ -1,5 +1,5 @@
-*Quote of the Day (03/17/2021):*
+*Quote of the Day (03/18/2021):*
 
-_**You will never win if you never begin.**_
+_**A quitter never wins and a winner never quits**_
 
-Helen Rowland
+Napoleon Hill
