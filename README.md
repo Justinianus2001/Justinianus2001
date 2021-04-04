@@ -1,5 +1,5 @@
-*Quote of the Day (04/03/2021):*
+*Quote of the Day (04/04/2021):*
 
-_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+_**Effort only fully releases its reward after a person refuses to quit.**_
 
-Christiane Northrup
+Napoleon Hill
