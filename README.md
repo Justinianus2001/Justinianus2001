@@ -1,5 +1,5 @@
-*Quote of the Day (04/04/2021):*
+*Quote of the Day (04/05/2021):*
 
-_**Effort only fully releases its reward after a person refuses to quit.**_
+_**The best way to predict the future is to create it.**_
 
-Napoleon Hill
+Abraham Lincoln
