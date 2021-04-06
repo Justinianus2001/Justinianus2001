@@ -1,5 +1,5 @@
-*Quote of the Day (04/05/2021):*
+*Quote of the Day (04/06/2021):*
 
-_**The best way to predict the future is to create it.**_
+_**Sustenance! Your health is always the best prescription.**_
 
-Abraham Lincoln
+Lorii Myers
