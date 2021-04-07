@@ -1,5 +1,5 @@
-*Quote of the Day (04/06/2021):*
+*Quote of the Day (04/07/2021):*
 
-_**Sustenance! Your health is always the best prescription.**_
+_**Let go of who you think you're supposed to be; embrace who you are.**_
 
-Lorii Myers
+Brene Brown
