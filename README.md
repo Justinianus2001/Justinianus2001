@@ -1,5 +1,5 @@
-*Quote of the Day (04/09/2021):*
+*Quote of the Day (04/10/2021):*
 
-_**Stop complaining. Start creating.**_
+_**Winning is not everything, but the effort to win is.**_
 
-Dale Patridge
+Zig Ziglar
