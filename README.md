@@ -1,5 +1,5 @@
-*Quote of the Day (04/18/2021):*
+*Quote of the Day (04/19/2021):*
 
-_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
+_**Once your excuses are gone, you will simply have to settle for being awesome!**_
 
-Vince Lombardi
+Lorii Myers
