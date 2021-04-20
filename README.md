@@ -1,5 +1,5 @@
-*Quote of the Day (04/19/2021):*
+*Quote of the Day (04/20/2021):*
 
-_**Once your excuses are gone, you will simply have to settle for being awesome!**_
+_**An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.**_
 
 Lorii Myers
