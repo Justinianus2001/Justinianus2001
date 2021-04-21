@@ -1,5 +1,5 @@
-*Quote of the Day (04/20/2021):*
+*Quote of the Day (04/21/2021):*
 
-_**An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.**_
+_**If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.**_
 
-Lorii Myers
+Barack Obama
