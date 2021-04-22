@@ -1,5 +1,5 @@
-*Quote of the Day (04/21/2021):*
+*Quote of the Day (04/22/2021):*
 
-_**If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.**_
+_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
 
-Barack Obama
+Christiane Northrup
