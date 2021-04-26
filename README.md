@@ -1,5 +1,5 @@
-*Quote of the Day (04/25/2021):*
+*Quote of the Day (04/26/2021):*
 
-_**Named must your fear be before banish it you can.**_
+_**The best way to predict the future is to create it.**_
 
-Yoda
+Abraham Lincoln
