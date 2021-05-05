@@ -1,5 +1,5 @@
-*Quote of the Day (05/04/2021):*
+*Quote of the Day (05/05/2021):*
 
-_**The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.**_
+_**Do not be afraid to give up the good for the great.**_
 
-Bill Murray
+Kenny Rogers
