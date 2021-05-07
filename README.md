@@ -1,5 +1,5 @@
-*Quote of the Day (05/06/2021):*
+*Quote of the Day (05/07/2021):*
 
-_**We don't have to do all of it alone. We were never meant to.**_
+_**Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.**_
 
-Brene Brown
+Mark Twain
