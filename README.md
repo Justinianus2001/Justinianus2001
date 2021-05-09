@@ -1,5 +1,5 @@
-*Quote of the Day (05/08/2021):*
+*Quote of the Day (05/09/2021):*
 
-_**I know for sure that what we dwell on is who we become.**_
+_**If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.**_
 
-Oprah Winfrey
+Kevin Turner 
