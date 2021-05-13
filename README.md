@@ -1,5 +1,5 @@
-*Quote of the Day (05/12/2021):*
+*Quote of the Day (05/13/2021):*
 
-_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
+_**You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.**_
 
-Michelle Obama
+Bill Murray
