@@ -1,5 +1,5 @@
-*Quote of the Day (05/22/2021):*
+*Quote of the Day (05/23/2021):*
 
-_**A man can suffer to bring a group of people to success, not the other way.**_
+_**Failure is the condiment that gives success its flavor.**_
 
-Ganesh
+Truman Capote
