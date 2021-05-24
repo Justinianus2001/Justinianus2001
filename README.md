@@ -1,5 +1,5 @@
-*Quote of the Day (05/23/2021):*
+*Quote of the Day (05/24/2021):*
 
-_**Failure is the condiment that gives success its flavor.**_
+_**You are very powerful, provided you know how powerful you are.**_
 
-Truman Capote
+Yogi Bhajan
