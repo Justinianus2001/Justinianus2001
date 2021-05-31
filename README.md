@@ -1,5 +1,5 @@
-*Quote of the Day (05/30/2021):*
+*Quote of the Day (05/31/2021):*
 
-_**When you win, say nothing. When you lose, say less.**_
+_**We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light**_
 
-Paul Brown
+Mary Dunbar
