@@ -1,5 +1,5 @@
-*Quote of the Day (06/02/2021):*
+*Quote of the Day (06/03/2021):*
 
-_**If you don't have confidence, you'll always find a way not to win**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Carl Lewis
+Brene Brown
