@@ -1,5 +1,5 @@
-*Quote of the Day (06/03/2021):*
+*Quote of the Day (06/04/2021):*
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**Named must your fear be before banish it you can.**_
 
-Brene Brown
+Yoda
