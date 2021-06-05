@@ -1,5 +1,5 @@
-*Quote of the Day (06/04/2021):*
+*Quote of the Day (06/05/2021):*
 
-_**Named must your fear be before banish it you can.**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-Yoda
+Arnold Horshak
