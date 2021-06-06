@@ -1,5 +1,5 @@
-*Quote of the Day (06/05/2021):*
+*Quote of the Day (06/06/2021):*
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
 
-Arnold Horshak
+Greg Child
