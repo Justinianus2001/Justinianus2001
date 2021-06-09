@@ -1,5 +1,5 @@
-*Quote of the Day (06/08/2021):*
+*Quote of the Day (06/09/2021):*
 
-_**Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Charles Bukowski
+Japanese Proverb
