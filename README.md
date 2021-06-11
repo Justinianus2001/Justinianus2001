@@ -1,5 +1,5 @@
-*Quote of the Day (06/10/2021):*
+*Quote of the Day (06/11/2021):*
 
-_**From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.**_
+_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
 
-Tom Hanks
+Lorii Myers
