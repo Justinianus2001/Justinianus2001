@@ -1,5 +1,5 @@
-*Quote of the Day (06/15/2021):*
+*Quote of the Day (06/16/2021):*
 
-_**He who is not courageous enough to take risks will accomplish nothing in life.**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Mohamad Ali
+Brene Brown
