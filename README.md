@@ -1,5 +1,5 @@
-*Quote of the Day (06/16/2021):*
+*Quote of the Day (06/17/2021):*
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.**_
 
-Brene Brown
+Tom Hanks
