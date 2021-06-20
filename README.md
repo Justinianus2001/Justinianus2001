@@ -1,5 +1,5 @@
-*Quote of the Day (06/19/2021):*
+*Quote of the Day (06/20/2021):*
 
-_**At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.**_
+_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
 
-Lorii Myers
+Larry Page
