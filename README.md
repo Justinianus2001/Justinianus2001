@@ -1,5 +1,5 @@
-*Quote of the Day (06/23/2021):*
+*Quote of the Day (06/24/2021):*
 
-_**You must be the change you want to see in the world..**_
+_**Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.**_
 
-M.K. Gandhi
+Zaha Hadid
