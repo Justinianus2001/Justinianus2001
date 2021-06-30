@@ -1,5 +1,5 @@
-*Quote of the Day (06/29/2021):*
+*Quote of the Day (06/30/2021):*
 
-_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
+_**Stop complaining. Start creating.**_
 
-Michelle Obama
+Dale Patridge
