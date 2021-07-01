@@ -1,5 +1,5 @@
-*Quote of the Day (06/30/2021):*
+*Quote of the Day (07/01/2021):*
 
-_**Stop complaining. Start creating.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Dale Patridge
+Japanese Proverb
