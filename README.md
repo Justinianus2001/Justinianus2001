@@ -1,5 +1,5 @@
-*Quote of the Day (07/05/2021):*
+*Quote of the Day (07/06/2021):*
 
-_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
+_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
 
-Mark Bezos
+Martina Navratilova
