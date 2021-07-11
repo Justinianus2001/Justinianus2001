@@ -1,5 +1,5 @@
-*Quote of the Day (07/10/2021):*
+*Quote of the Day (07/11/2021):*
 
-_**Our words are buttressed by our deeds, and our deeds are inspired by our convictions.**_
+_**There's such a thin line between winning and losing.**_
 
-Theodore Hesburgh
+John R. Tunis
