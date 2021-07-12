@@ -1,5 +1,5 @@
-*Quote of the Day (07/11/2021):*
+*Quote of the Day (07/12/2021):*
 
-_**There's such a thin line between winning and losing.**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-John R. Tunis
+Brene Brown
