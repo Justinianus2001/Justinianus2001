@@ -1,5 +1,5 @@
-*Quote of the Day (07/12/2021):*
+*Quote of the Day (07/13/2021):*
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!**_
 
-Brene Brown
+Larry Page
