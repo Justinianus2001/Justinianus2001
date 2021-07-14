@@ -1,5 +1,5 @@
-*Quote of the Day (07/13/2021):*
+*Quote of the Day (07/14/2021):*
 
-_**What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!**_
+_**Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.**_
 
-Larry Page
+Lorii Myers
