@@ -1,5 +1,5 @@
-*Quote of the Day (07/14/2021):*
+*Quote of the Day (07/15/2021):*
 
-_**Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.**_
+_**You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.**_
 
-Lorii Myers
+Bill Murray
