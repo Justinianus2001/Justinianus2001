@@ -1,5 +1,5 @@
-*Quote of the Day (07/22/2021):*
+*Quote of the Day (07/23/2021):*
 
-_**People who are crazy enough to think they can change the world, are the ones who do.**_
+_**If you want to test your memory, try to recall what you were worrying about one year ago today.**_
 
-Apple Computers
+E. Joseph Cossman
