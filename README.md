@@ -1,5 +1,5 @@
-*Quote of the Day (07/30/2021):*
+*Quote of the Day (07/31/2021):*
 
-_**I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.**_
+_**Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.**_
 
-Steve Jobs
+William James Moore
