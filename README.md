@@ -1,5 +1,5 @@
-*Quote of the Day (08/03/2021):*
+*Quote of the Day (08/04/2021):*
 
-_**Sustenance! Your health is always the best prescription.**_
+_**If you want to make your dreams come true, the first thing you have to do is wake up.**_
 
-Lorii Myers
+J.M. Power
