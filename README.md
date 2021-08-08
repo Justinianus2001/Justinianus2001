@@ -1,5 +1,5 @@
-*Quote of the Day (08/07/2021):*
+*Quote of the Day (08/08/2021):*
 
-_**The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Bill Murray
+Japanese Proverb
