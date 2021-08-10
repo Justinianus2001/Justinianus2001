@@ -1,5 +1,5 @@
-*Quote of the Day (08/09/2021):*
+*Quote of the Day (08/10/2021):*
 
-_**Whether you think you can or think you can't, you're right..**_
+_**The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.**_
 
-Henry Ford
+Lorii Myers
