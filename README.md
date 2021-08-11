@@ -1,5 +1,5 @@
-*Quote of the Day (08/10/2021):*
+*Quote of the Day (08/11/2021):*
 
-_**The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.**_
+_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.**_
 
-Lorii Myers
+John Gardner
