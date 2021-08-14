@@ -1,5 +1,5 @@
-*Quote of the Day (08/13/2021):*
+*Quote of the Day (08/14/2021):*
 
-_**Stress is like a pulse, if you have it you are alive.**_
+_**In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.**_
 
-Steve Maraboli
+Vincent Van Gogh
