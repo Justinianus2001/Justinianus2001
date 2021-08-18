@@ -1,5 +1,5 @@
-*Quote of the Day (08/17/2021):*
+*Quote of the Day (08/18/2021):*
 
-_**You will never win if you never begin.**_
+_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
 
-Helen Rowland
+Dale Carnegie
