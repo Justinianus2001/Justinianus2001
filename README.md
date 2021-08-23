@@ -1,5 +1,5 @@
-*Quote of the Day (08/22/2021):*
+*Quote of the Day (08/23/2021):*
 
-_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Michelle Obama
+Carl Lewis
