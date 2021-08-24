@@ -1,5 +1,5 @@
-*Quote of the Day (08/23/2021):*
+*Quote of the Day (08/24/2021):*
 
-_**If you don't have confidence, you'll always find a way not to win**_
+_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
 
-Carl Lewis
+Greg Child
