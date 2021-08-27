@@ -1,5 +1,5 @@
-*Quote of the Day (08/26/2021):*
+*Quote of the Day (08/27/2021):*
 
-_**The real opportunity for success lies within the person and not in the job.**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Zig Ziglar
+Brene Brown
