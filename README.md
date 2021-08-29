@@ -1,5 +1,5 @@
-*Quote of the Day (08/28/2021):*
+*Quote of the Day (08/29/2021):*
 
-_**We don't have to do all of it alone. We were never meant to.**_
+_**A show of confidence raises the bar**_
 
-Brene Brown
+Lorii Myers
