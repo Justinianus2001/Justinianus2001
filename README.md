@@ -1,5 +1,5 @@
-*Quote of the Day (08/29/2021):*
+*Quote of the Day (08/30/2021):*
 
-_**A show of confidence raises the bar**_
+_**Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.**_
 
-Lorii Myers
+G. Kingsley Ward
