@@ -1,5 +1,5 @@
-*Quote of the Day (09/03/2021):*
+*Quote of the Day (09/04/2021):*
 
-_**When you win, say nothing. When you lose, say less.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Paul Brown
+Japanese Proverb
