@@ -1,5 +1,5 @@
-*Quote of the Day (09/04/2021):*
+*Quote of the Day (09/05/2021):*
 
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
 
-Japanese Proverb
+Honore de Balzac
