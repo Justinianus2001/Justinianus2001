@@ -1,5 +1,5 @@
-*Quote of the Day (09/05/2021):*
+*Quote of the Day (09/06/2021):*
 
-_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
+_**There's such a thin line between winning and losing.**_
 
-Honore de Balzac
+John R. Tunis
