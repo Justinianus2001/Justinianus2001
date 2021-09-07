@@ -1,5 +1,5 @@
-*Quote of the Day (09/06/2021):*
+*Quote of the Day (09/07/2021):*
 
-_**There's such a thin line between winning and losing.**_
+_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
 
-John R. Tunis
+George Bernard Shaw
