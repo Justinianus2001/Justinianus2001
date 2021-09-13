@@ -1,5 +1,5 @@
-*Quote of the Day (09/12/2021):*
+*Quote of the Day (09/13/2021):*
 
-_**An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!**_
+_**Sustenance! Your health is always the best prescription.**_
 
-G. Kingsley Ward
+Lorii Myers
