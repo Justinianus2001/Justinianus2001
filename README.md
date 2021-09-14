@@ -1,5 +1,5 @@
-*Quote of the Day (09/13/2021):*
+*Quote of the Day (09/14/2021):*
 
-_**Sustenance! Your health is always the best prescription.**_
+_**The real opportunity for success lies within the person and not in the job.**_
 
-Lorii Myers
+Zig Ziglar
