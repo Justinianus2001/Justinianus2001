@@ -1,5 +1,5 @@
-*Quote of the Day (09/15/2021):*
+*Quote of the Day (09/16/2021):*
 
-_**Stress is like a pulse, if you have it you are alive.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Steve Maraboli
+Japanese Proverb
