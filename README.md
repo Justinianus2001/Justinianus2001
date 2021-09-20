@@ -1,5 +1,5 @@
-*Quote of the Day (09/19/2021):*
+*Quote of the Day (09/20/2021):*
 
-_**Do the best you can until you know better. Then when you know better, do better.**_
+_**Effort only fully releases its reward after a person refuses to quit.**_
 
-Maya Angelou
+Napoleon Hill
