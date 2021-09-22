@@ -1,5 +1,5 @@
-*Quote of the Day (09/21/2021):*
+*Quote of the Day (09/22/2021):*
 
-_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-Jean Shinoda Bolen
+Arnold Horshak
