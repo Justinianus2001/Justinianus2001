@@ -1,5 +1,5 @@
-*Quote of the Day (09/26/2021):*
+*Quote of the Day (09/27/2021):*
 
-_**Stop complaining. Start creating.**_
+_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
 
-Dale Patridge
+Martina Navratilova
