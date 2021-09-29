@@ -1,5 +1,5 @@
-*Quote of the Day (09/28/2021):*
+*Quote of the Day (09/29/2021):*
 
-_**Don't be tempted to break momentum-work through it.**_
+_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
 
-Lorii Myers
+Charles F. Kettering
