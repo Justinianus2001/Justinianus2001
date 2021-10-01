@@ -1,5 +1,5 @@
-*Quote of the Day (09/30/2021):*
+*Quote of the Day (10/01/2021):*
 
-_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
+_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
 
-Larry Page
+Jack Ma
