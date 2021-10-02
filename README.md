@@ -1,5 +1,5 @@
-*Quote of the Day (10/01/2021):*
+*Quote of the Day (10/02/2021):*
 
-_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Jack Ma
+Paul Brown
