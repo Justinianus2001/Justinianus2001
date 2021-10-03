@@ -1,5 +1,5 @@
-*Quote of the Day (10/02/2021):*
+*Quote of the Day (10/03/2021):*
 
-_**When you win, say nothing. When you lose, say less.**_
+_**Named must your fear be before banish it you can.**_
 
-Paul Brown
+Yoda
