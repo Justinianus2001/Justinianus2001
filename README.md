@@ -1,5 +1,5 @@
-*Quote of the Day (10/03/2021):*
+*Quote of the Day (10/04/2021):*
 
-_**Named must your fear be before banish it you can.**_
+_**It wasn't raining when Noah built the ark..**_
 
-Yoda
+Howard Ruff
