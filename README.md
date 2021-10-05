@@ -1,5 +1,5 @@
-*Quote of the Day (10/04/2021):*
+*Quote of the Day (10/05/2021):*
 
-_**It wasn't raining when Noah built the ark..**_
+_**Remember that you are very special, no one can play your role better than you.**_
 
-Howard Ruff
+Damayanti Patra
