@@ -1,5 +1,5 @@
-*Quote of the Day (10/06/2021):*
+*Quote of the Day (10/07/2021):*
 
-_**You will never win if you never begin.**_
+_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.**_
 
-Helen Rowland
+John Gardner
