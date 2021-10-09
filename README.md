@@ -1,5 +1,5 @@
-*Quote of the Day (10/08/2021):*
+*Quote of the Day (10/09/2021):*
 
-_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Charles F. Kettering
+Japanese Proverb
