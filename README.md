@@ -1,5 +1,5 @@
-*Quote of the Day (10/10/2021):*
+*Quote of the Day (10/11/2021):*
 
-_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
+_**Remember that you are very special, no one can play your role better than you.**_
 
-Dale Carnegie
+Damayanti Patra
