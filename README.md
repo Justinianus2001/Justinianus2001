@@ -1,5 +1,5 @@
-*Quote of the Day (10/11/2021):*
+*Quote of the Day (10/12/2021):*
 
-_**Remember that you are very special, no one can play your role better than you.**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Damayanti Patra
+Carl Lewis
