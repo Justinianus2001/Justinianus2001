@@ -1,5 +1,5 @@
-*Quote of the Day (10/19/2021):*
+*Quote of the Day (10/20/2021):*
 
-_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
+_**Your life does not get better by chance. It gets better by change.**_
 
-Greg Child
+Jim Rohn
