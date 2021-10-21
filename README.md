@@ -1,5 +1,5 @@
-*Quote of the Day (10/20/2021):*
+*Quote of the Day (10/21/2021):*
 
-_**Your life does not get better by chance. It gets better by change.**_
+_**Effort only fully releases its reward after a person refuses to quit.**_
 
-Jim Rohn
+Napoleon Hill
