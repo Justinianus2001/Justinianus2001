@@ -1,5 +1,5 @@
-*Quote of the Day (10/29/2021):*
+*Quote of the Day (10/30/2021):*
 
-_**All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Niccolo Machiavelli
+Japanese Proverb
