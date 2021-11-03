@@ -1,5 +1,5 @@
-*Quote of the Day (11/02/2021):*
+*Quote of the Day (11/03/2021):*
 
-_**The man who removes a mountain begins by carrying away small stones..**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Chinese Proverb
+Paul Brown
