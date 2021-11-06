@@ -1,5 +1,5 @@
-*Quote of the Day (11/05/2021):*
+*Quote of the Day (11/06/2021):*
 
-_**You will never win if you never begin.**_
+_**Win any way as long as you can get away with it. Nice guys finish last.**_
 
-Helen Rowland
+Leo Durocher
