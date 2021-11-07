@@ -1,5 +1,5 @@
-*Quote of the Day (11/06/2021):*
+*Quote of the Day (11/07/2021):*
 
-_**Win any way as long as you can get away with it. Nice guys finish last.**_
+_**The things you learn in maturity aren't simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.**_
 
-Leo Durocher
+John Gardner
