@@ -1,5 +1,5 @@
-*Quote of the Day (11/13/2021):*
+*Quote of the Day (11/14/2021):*
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Stress is like a pulse, if you have it you are alive.**_
 
-Arnold Horshak
+Steve Maraboli
