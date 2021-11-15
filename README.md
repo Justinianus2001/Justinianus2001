@@ -1,5 +1,5 @@
-*Quote of the Day (11/14/2021):*
+*Quote of the Day (11/15/2021):*
 
-_**Stress is like a pulse, if you have it you are alive.**_
+_**Winning isn't everything.. It's the only thing.**_
 
-Steve Maraboli
+Vincent van Gogh
