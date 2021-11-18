@@ -1,5 +1,5 @@
-*Quote of the Day (11/17/2021):*
+*Quote of the Day (11/18/2021):*
 
-_**If you want to test your memory, try to recall what you were worrying about one year ago today.**_
+_**What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!**_
 
-E. Joseph Cossman
+Larry Page
