@@ -1,5 +1,5 @@
-*Quote of the Day (11/20/2021):*
+*Quote of the Day (11/21/2021):*
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Brene Brown
+Japanese Proverb
