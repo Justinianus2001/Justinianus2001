@@ -1,5 +1,5 @@
-*Quote of the Day (11/29/2021):*
+*Quote of the Day (11/30/2021):*
 
-_**Don't be tempted to break momentum-work through it.**_
+_**Luck is a dividend of sweat. The more you sweat, the luckier you get**_
 
-Lorii Myers
+Ray Kroc
