@@ -1,5 +1,5 @@
-*Quote of the Day (12/01/2021):*
+*Quote of the Day (12/02/2021):*
 
-_**A man who has no imagination has no wings.**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-Mohamad Ali
+Arnold Horshak
