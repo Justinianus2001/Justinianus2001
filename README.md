@@ -1,5 +1,5 @@
-*Quote of the Day (12/03/2021):*
+*Quote of the Day (12/04/2021):*
 
-_**Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.**_
+_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
 
-Stephen Richards
+Vince Lombardi
