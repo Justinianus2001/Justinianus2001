@@ -1,5 +1,5 @@
-*Quote of the Day (12/05/2021):*
+*Quote of the Day (12/06/2021):*
 
-_**People who are crazy enough to think they can change the world, are the ones who do.**_
+_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
 
-Apple Computers
+Jack Ma
