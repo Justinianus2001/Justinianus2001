@@ -1,5 +1,5 @@
-*Quote of the Day (12/06/2021):*
+*Quote of the Day (12/07/2021):*
 
-_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
+_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
 
-Jack Ma
+Dale Carnegie
