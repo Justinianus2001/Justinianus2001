@@ -1,5 +1,5 @@
-*Quote of the Day (12/08/2021):*
+*Quote of the Day (12/10/2021):*
 
-_**If you want to make your dreams come true, the first thing you have to do is wake up.**_
+_**Effort only fully releases its reward after a person refuses to quit.**_
 
-J.M. Power
+Napoleon Hill
