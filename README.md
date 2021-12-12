@@ -1,5 +1,5 @@
-*Quote of the Day (12/11/2021):*
+*Quote of the Day (12/12/2021):*
 
-_**A show of confidence raises the bar**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Lorii Myers
+Carl Lewis
