@@ -1,5 +1,5 @@
-*Quote of the Day (12/16/2021):*
+*Quote of the Day (12/17/2021):*
 
-_**He who is not courageous enough to take risks will accomplish nothing in life.**_
+_**Extend beyond your preconceived limits!**_
 
-Mohamad Ali
+Lorii Myers
