@@ -1,5 +1,5 @@
-*Quote of the Day (12/17/2021):*
+*Quote of the Day (12/18/2021):*
 
-_**Extend beyond your preconceived limits!**_
+_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
 
-Lorii Myers
+Martina Navratilova
