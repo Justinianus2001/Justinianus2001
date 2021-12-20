@@ -1,5 +1,5 @@
-*Quote of the Day (12/19/2021):*
+*Quote of the Day (12/20/2021):*
 
-_**We don't have to do all of it alone. We were never meant to.**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-Brene Brown
+Arnold Horshak
