@@ -1,5 +1,5 @@
-*Quote of the Day (12/20/2021):*
+*Quote of the Day (12/21/2021):*
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**If you have dreams it is your responsibility to make them happen.**_
 
-Arnold Horshak
+Bel Pesce
