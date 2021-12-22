@@ -1,5 +1,5 @@
-*Quote of the Day (12/21/2021):*
+*Quote of the Day (12/22/2021):*
 
-_**If you have dreams it is your responsibility to make them happen.**_
+_**The journey of a thousand miles begins with one step.**_
 
-Bel Pesce
+Lao Tzu
