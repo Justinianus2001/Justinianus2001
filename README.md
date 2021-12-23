@@ -1,5 +1,5 @@
-*Quote of the Day (12/22/2021):*
+*Quote of the Day (12/23/2021):*
 
-_**The journey of a thousand miles begins with one step.**_
+_**A quitter never wins and a winner never quits**_
 
-Lao Tzu
+Napoleon Hill
