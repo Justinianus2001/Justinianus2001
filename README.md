@@ -1,5 +1,5 @@
-*Quote of the Day (12/24/2021):*
+*Quote of the Day (12/25/2021):*
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
 
-Brene Brown
+John Muir
