@@ -1,5 +1,5 @@
-*Quote of the Day (12/26/2021):*
+*Quote of the Day (12/27/2021):*
 
-_**Your life does not get better by chance. It gets better by change.**_
+_**Stop complaining. Start creating.**_
 
-Jim Rohn
+Dale Patridge
