@@ -1,5 +1,5 @@
-*Quote of the Day (12/27/2021):*
+*Quote of the Day (12/28/2021):*
 
-_**Stop complaining. Start creating.**_
+_**Our words are buttressed by our deeds, and our deeds are inspired by our convictions.**_
 
-Dale Patridge
+Theodore Hesburgh
