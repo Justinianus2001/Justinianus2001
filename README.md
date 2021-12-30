@@ -1,5 +1,5 @@
-*Quote of the Day (12/29/2021):*
+*Quote of the Day (12/30/2021):*
 
-_**Named must your fear be before banish it you can.**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Yoda
+Paul Brown
