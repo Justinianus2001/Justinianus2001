@@ -1,5 +1,5 @@
-*Quote of the Day (12/31/2021):*
+*Quote of the Day (01/01/2022):*
 
-_**If I work as hard as I can, I wonder how much I can do in a day?**_
+_**You are very powerful, provided you know how powerful you are.**_
 
-Ezra Taft Benson
+Yogi Bhajan
