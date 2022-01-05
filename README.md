@@ -1,5 +1,5 @@
-*Quote of the Day (01/04/2022):*
+*Quote of the Day (01/05/2022):*
 
-_**It wasn't raining when Noah built the ark..**_
+_**You will never win if you never begin.**_
 
-Howard Ruff
+Helen Rowland
