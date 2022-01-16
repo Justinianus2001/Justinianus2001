@@ -1,5 +1,5 @@
-*Quote of the Day (01/15/2022):*
+*Quote of the Day (01/16/2022):*
 
-_**Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.**_
+_**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**_
 
-Thomas Edison
+Barbara Pletcher
