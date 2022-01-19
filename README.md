@@ -1,5 +1,5 @@
-*Quote of the Day (01/18/2022):*
+*Quote of the Day (01/19/2022):*
 
-_**Hang Out with People Who are Better than You.**_
+_**Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.**_
 
-Warren Buffett
+William James Moore
