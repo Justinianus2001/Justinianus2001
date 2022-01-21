@@ -1,5 +1,5 @@
-*Quote of the Day (01/19/2022):*
+*Quote of the Day (01/21/2022):*
 
-_**Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.**_
+_**I think it is often easier to make progress on mega-ambitious dreams. Since no one else is crazy enough to do it, you have little competition. In fact, there are so few people this crazy that I feel like I know them all by first name.**_
 
-William James Moore
+Larry Page
