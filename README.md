@@ -1,5 +1,5 @@
-*Quote of the Day (01/23/2022):*
+*Quote of the Day (01/24/2022):*
 
-_**The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Bill Murray
+Brene Brown
