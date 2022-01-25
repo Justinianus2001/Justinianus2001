@@ -1,5 +1,5 @@
-*Quote of the Day (01/24/2022):*
+*Quote of the Day (01/25/2022):*
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**Great things are done by a series of small things brought together.**_
 
-Brene Brown
+Vincent Van Gogh
