@@ -1,5 +1,5 @@
-*Quote of the Day (01/29/2022):*
+*Quote of the Day (01/30/2022):*
 
-_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Lorii Myers
+Paul Brown
