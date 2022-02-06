@@ -1,5 +1,5 @@
-*Quote of the Day (02/05/2022):*
+*Quote of the Day (02/06/2022):*
 
-_**Extend beyond your preconceived limits!**_
+_**Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.**_
 
-Lorii Myers
+Vince Lombardi
