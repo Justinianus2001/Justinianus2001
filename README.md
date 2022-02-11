@@ -1,5 +1,5 @@
-*Quote of the Day (02/10/2022):*
+*Quote of the Day (02/11/2022):*
 
-_**Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.**_
+_**Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.**_
 
-Henry David Thoreau
+Zaha Hadid
