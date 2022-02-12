@@ -1,5 +1,5 @@
-*Quote of the Day (02/11/2022):*
+*Quote of the Day (02/12/2022):*
 
-_**Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.**_
+_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
 
-Zaha Hadid
+Mark Bezos
