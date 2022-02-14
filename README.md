@@ -1,5 +1,5 @@
-*Quote of the Day (02/13/2022):*
+*Quote of the Day (02/14/2022):*
 
-_**The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.**_
+_**We lose ourselves in the things we love. We find ourselves there, too.**_
 
-Bill Murray
+Dale Patridge
