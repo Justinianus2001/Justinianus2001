@@ -1,5 +1,5 @@
-*Quote of the Day (02/17/2022):*
+*Quote of the Day (02/18/2022):*
 
-_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
+_**Great things are done by a series of small things brought together.**_
 
-Martina Navratilova
+Vincent Van Gogh
