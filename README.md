@@ -1,5 +1,5 @@
-*Quote of the Day (02/19/2022):*
+*Quote of the Day (02/20/2022):*
 
-_**Excellence prospers in the absence of excuses.**_
+_**A quitter never wins and a winner never quits**_
 
-Lorii Myers
+Napoleon Hill
