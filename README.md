@@ -1,5 +1,5 @@
-*Quote of the Day (02/20/2022):*
+*Quote of the Day (02/21/2022):*
 
-_**A quitter never wins and a winner never quits**_
+_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
 
-Napoleon Hill
+Isaac Lidsky
