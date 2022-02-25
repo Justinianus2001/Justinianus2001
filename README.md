@@ -1,5 +1,5 @@
-*Quote of the Day (02/24/2022):*
+*Quote of the Day (02/25/2022):*
 
-_**People who are crazy enough to think they can change the world, are the ones who do.**_
+_**By failing to prepare, you are preparing to fail.**_
 
-Apple Computers
+Benjamin Franklin
