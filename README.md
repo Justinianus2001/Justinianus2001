@@ -1,5 +1,5 @@
-*Quote of the Day (02/27/2022):*
+*Quote of the Day (02/28/2022):*
 
-_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
+_**Predicting Rain Doesn't Count. Building Arks Does.**_
 
-Jack Ma
+Warren Buffett
