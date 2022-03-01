@@ -1,5 +1,5 @@
-*Quote of the Day (02/28/2022):*
+*Quote of the Day (03/01/2022):*
 
-_**Predicting Rain Doesn't Count. Building Arks Does.**_
+_**An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.**_
 
-Warren Buffett
+Lorii Myers
