@@ -1,5 +1,5 @@
-*Quote of the Day (03/02/2022):*
+*Quote of the Day (03/03/2022):*
 
-_**Don't be tempted to break momentum-work through it.**_
+_**You make a living by what you earn; you make a life by what you give.**_
 
-Lorii Myers
+Winston Churchill
