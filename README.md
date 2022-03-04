@@ -1,5 +1,5 @@
-*Quote of the Day (03/03/2022):*
+*Quote of the Day (03/04/2022):*
 
-_**You make a living by what you earn; you make a life by what you give.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
 Winston Churchill
