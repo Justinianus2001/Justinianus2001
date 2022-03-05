@@ -1,5 +1,5 @@
-*Quote of the Day (03/04/2022):*
+*Quote of the Day (03/05/2022):*
 
-_**Let our advance worrying become advance thinking and planning.**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Winston Churchill
+Paul Brown
