@@ -1,5 +1,5 @@
-*Quote of the Day (03/05/2022):*
+*Quote of the Day (03/06/2022):*
 
-_**When you win, say nothing. When you lose, say less.**_
+_**Your life does not get better by chance. It gets better by change.**_
 
-Paul Brown
+Jim Rohn
