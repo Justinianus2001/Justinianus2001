@@ -1,5 +1,5 @@
-*Quote of the Day (03/11/2022):*
+*Quote of the Day (03/12/2022):*
 
-_**Luck is a dividend of sweat. The more you sweat, the luckier you get**_
+_**Great things are done by a series of small things brought together.**_
 
-Ray Kroc
+Vincent Van Gogh
