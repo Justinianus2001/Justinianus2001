@@ -1,5 +1,5 @@
-*Quote of the Day (03/12/2022):*
+*Quote of the Day (03/13/2022):*
 
-_**Great things are done by a series of small things brought together.**_
+_**If you cannot do great things, do small things in a great way.**_
 
-Vincent Van Gogh
+Napoleon Hill
