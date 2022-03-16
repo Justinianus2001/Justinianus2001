@@ -1,5 +1,5 @@
-*Quote of the Day (03/15/2022):*
+*Quote of the Day (03/16/2022):*
 
-_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
+_**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**_
 
-Bel Pesce
+Barbara Pletcher
