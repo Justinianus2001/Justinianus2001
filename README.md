@@ -1,5 +1,5 @@
-*Quote of the Day (03/19/2022):*
+*Quote of the Day (03/20/2022):*
 
-_**You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.**_
+_**Stop complaining. Start creating.**_
 
-Bill Murray
+Dale Patridge
