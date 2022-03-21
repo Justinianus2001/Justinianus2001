@@ -1,5 +1,5 @@
-*Quote of the Day (03/20/2022):*
+*Quote of the Day (03/21/2022):*
 
-_**Stop complaining. Start creating.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
-Dale Patridge
+Winston Churchill
