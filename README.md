@@ -1,5 +1,5 @@
-*Quote of the Day (03/23/2022):*
+*Quote of the Day (03/24/2022):*
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**The real opportunity for success lies within the person and not in the job.**_
 
-Arnold Horshak
+Zig Ziglar
