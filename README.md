@@ -1,5 +1,5 @@
-*Quote of the Day (03/26/2022):*
+*Quote of the Day (03/27/2022):*
 
-_**Many a false step was made by standing still.**_
+_**Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.**_
 
-Fortune Cookie
+ Daniel Coyle
