@@ -1,5 +1,5 @@
-*Quote of the Day (03/28/2022):*
+*Quote of the Day (03/29/2022):*
 
-_**He who is not courageous enough to take risks will accomplish nothing in life.**_
+_**The determination to win is the better part of winning.**_
 
-Mohamad Ali
+Daisaku Ikeda
