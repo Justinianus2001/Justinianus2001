@@ -1,5 +1,5 @@
-*Quote of the Day (03/31/2022):*
+*Quote of the Day (04/01/2022):*
 
-_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
+_**You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).**_
 
-Jean Shinoda Bolen
+Edmund Hillary
