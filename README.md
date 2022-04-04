@@ -1,5 +1,5 @@
-*Quote of the Day (04/03/2022):*
+*Quote of the Day (04/04/2022):*
 
-_**Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.**_
+_**If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.**_
 
-Vince Lombardi
+Steve Maraboli
