@@ -1,5 +1,5 @@
-*Quote of the Day (04/12/2022):*
+*Quote of the Day (04/13/2022):*
 
-_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
+_**Whether you think you can or think you can't, you're right..**_
 
-Dale Carnegie
+Henry Ford
