@@ -1,5 +1,5 @@
-*Quote of the Day (04/13/2022):*
+*Quote of the Day (04/14/2022):*
 
-_**Whether you think you can or think you can't, you're right..**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-Henry Ford
+Winston Churchill
