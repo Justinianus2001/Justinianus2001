@@ -1,5 +1,5 @@
-*Quote of the Day (04/14/2022):*
+*Quote of the Day (04/15/2022):*
 
-_**I am an optimist. It does not seem too much use being anything else..**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Winston Churchill
+Brene Brown
