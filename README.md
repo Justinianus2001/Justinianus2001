@@ -1,5 +1,5 @@
-*Quote of the Day (04/15/2022):*
+*Quote of the Day (04/16/2022):*
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
 
-Brene Brown
+Phil Grimshaw
