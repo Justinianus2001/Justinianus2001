@@ -1,5 +1,5 @@
-*Quote of the Day (04/24/2022):*
+*Quote of the Day (04/25/2022):*
 
-_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
+_**Do not be afraid to give up the good for the great.**_
 
-Mark Bezos
+Kenny Rogers
