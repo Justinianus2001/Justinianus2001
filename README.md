@@ -1,5 +1,5 @@
-*Quote of the Day (04/25/2022):*
+*Quote of the Day (04/26/2022):*
 
-_**Do not be afraid to give up the good for the great.**_
+_**Those who know how to win are much more numerous than those who know how to make proper use of their victories**_
 
-Kenny Rogers
+Polybius
