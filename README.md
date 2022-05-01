@@ -1,5 +1,5 @@
-*Quote of the Day (04/30/2022):*
+*Quote of the Day (05/01/2022):*
 
-_**We lose ourselves in the things we love. We find ourselves there, too.**_
+_**When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.**_
 
-Dale Patridge
+Elon Musk
