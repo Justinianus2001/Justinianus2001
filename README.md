@@ -1,5 +1,5 @@
-*Quote of the Day (05/05/2022):*
+*Quote of the Day (05/06/2022):*
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Excellence prospers in the absence of excuses.**_
 
-Arnold Horshak
+Lorii Myers
