@@ -1,5 +1,5 @@
-*Quote of the Day (05/09/2022):*
+*Quote of the Day (05/10/2022):*
 
-_**If you are born poor, it is not your mistake. But if you die poor it is your mistake.**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Bill Gates
+Carl Lewis
