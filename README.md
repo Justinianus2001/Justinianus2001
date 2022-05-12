@@ -1,5 +1,5 @@
-*Quote of the Day (05/11/2022):*
+*Quote of the Day (05/12/2022):*
 
-_**We don't have to do all of it alone. We were never meant to.**_
+_**People who are crazy enough to think they can change the world, are the ones who do.**_
 
-Brene Brown
+Apple Computers
