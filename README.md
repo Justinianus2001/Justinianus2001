@@ -1,5 +1,5 @@
-*Quote of the Day (05/16/2022):*
+*Quote of the Day (05/17/2022):*
 
-_**Remove the temptation to settle for anything short of what you deserve.**_
+_**Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.**_
 
-Lorii Myers
+Matthew Keith Groves
