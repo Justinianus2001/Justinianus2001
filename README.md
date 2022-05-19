@@ -1,5 +1,5 @@
-*Quote of the Day (05/18/2022):*
+*Quote of the Day (05/19/2022):*
 
-_**The determination to win is the better part of winning.**_
+_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
 
-Daisaku Ikeda
+Mark Bezos
