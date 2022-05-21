@@ -1,5 +1,5 @@
-*Quote of the Day (05/20/2022):*
+*Quote of the Day (05/21/2022):*
 
-_**Effort only fully releases its reward after a person refuses to quit.**_
+_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.**_
 
-Napoleon Hill
+John Gardner
