@@ -1,5 +1,5 @@
-*Quote of the Day (05/24/2022):*
+*Quote of the Day (05/25/2022):*
 
-_**Your life does not get better by chance. It gets better by change.**_
+_**Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.**_
 
-Jim Rohn
+Charles Bukowski
