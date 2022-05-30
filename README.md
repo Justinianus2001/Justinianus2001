@@ -1,5 +1,5 @@
-*Quote of the Day (05/29/2022):*
+*Quote of the Day (05/30/2022):*
 
-_**There's such a thin line between winning and losing.**_
+_**When there is no distraction, there is clarity.**_
 
-John R. Tunis
+Lorii Myers
