@@ -1,5 +1,5 @@
-*Quote of the Day (06/02/2022):*
+*Quote of the Day (06/03/2022):*
 
-_**We lose ourselves in the things we love. We find ourselves there, too.**_
+_**Don't be tempted to break momentum-work through it.**_
 
-Dale Patridge
+Lorii Myers
