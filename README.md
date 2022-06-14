@@ -1,5 +1,5 @@
-*Quote of the Day (06/13/2022):*
+*Quote of the Day (06/14/2022):*
 
-_**Sustenance! Your health is always the best prescription.**_
+_**I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.**_
 
-Lorii Myers
+Steve Jobs
