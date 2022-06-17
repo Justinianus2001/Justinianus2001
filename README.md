@@ -1,5 +1,5 @@
-*Quote of the Day (06/16/2022):*
+*Quote of the Day (06/17/2022):*
 
-_**When you win, say nothing. When you lose, say less.**_
+_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.**_
 
-Paul Brown
+John Gardner
