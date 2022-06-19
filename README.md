@@ -1,5 +1,5 @@
-*Quote of the Day (06/18/2022):*
+*Quote of the Day (06/19/2022):*
 
-_**Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.**_
+_**Named must your fear be before banish it you can.**_
 
-Zaha Hadid
+Yoda
