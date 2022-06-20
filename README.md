@@ -1,5 +1,5 @@
-*Quote of the Day (06/19/2022):*
+*Quote of the Day (06/20/2022):*
 
-_**Named must your fear be before banish it you can.**_
+_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
 
-Yoda
+Lorii Myers
