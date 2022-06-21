@@ -1,5 +1,5 @@
-*Quote of the Day (06/20/2022):*
+*Quote of the Day (06/21/2022):*
 
-_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
+_**What you do speaks so loudly that I cannot hear what you say.**_
 
-Lorii Myers
+Ralph Waldo Emerson
