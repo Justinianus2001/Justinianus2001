@@ -1,5 +1,5 @@
-*Quote of the Day (06/23/2022):*
+*Quote of the Day (06/24/2022):*
 
-_**Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.**_
+_**People who are crazy enough to think they can change the world, are the ones who do.**_
 
-Elizabeth Gilbert
+Apple Computers
