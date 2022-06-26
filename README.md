@@ -1,5 +1,5 @@
-*Quote of the Day (06/25/2022):*
+*Quote of the Day (06/26/2022):*
 
-_**Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.**_
+_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
 
-Voltaire
+George Bernard Shaw
