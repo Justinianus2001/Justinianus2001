@@ -1,5 +1,5 @@
-*Quote of the Day (06/27/2022):*
+*Quote of the Day (06/28/2022):*
 
-_**You must be the change you want to see in the world..**_
+_**A show of confidence raises the bar**_
 
-M.K. Gandhi
+Lorii Myers
