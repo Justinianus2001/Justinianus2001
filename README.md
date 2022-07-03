@@ -1,5 +1,5 @@
-*Quote of the Day (07/02/2022):*
+*Quote of the Day (07/03/2022):*
 
-_**Named must your fear be before banish it you can.**_
+_**When there is no distraction, there is clarity.**_
 
-Yoda
+Lorii Myers
