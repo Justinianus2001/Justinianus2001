@@ -1,5 +1,5 @@
-*Quote of the Day (07/04/2022):*
+*Quote of the Day (07/05/2022):*
 
-_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
+_**Sustenance! Your health is always the best prescription.**_
 
-Martina Navratilova
+Lorii Myers
