@@ -1,5 +1,5 @@
-*Quote of the Day (07/06/2022):*
+*Quote of the Day (07/07/2022):*
 
-_**When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, 'Damn. That really hurt, but this is important to me and I'm going in again'-my gut reaction is, 'What a badass.'**_
+_**Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.**_
 
-Brene Brown
+ Daniel Coyle
