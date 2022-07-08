@@ -1,5 +1,5 @@
-*Quote of the Day (07/07/2022):*
+*Quote of the Day (07/08/2022):*
 
-_**Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
- Daniel Coyle
+Winston Churchill
