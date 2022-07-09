@@ -1,5 +1,5 @@
-*Quote of the Day (07/08/2022):*
+*Quote of the Day (07/09/2022):*
 
-_**Let our advance worrying become advance thinking and planning.**_
+_**You are very powerful, provided you know how powerful you are.**_
 
-Winston Churchill
+Yogi Bhajan
