@@ -1,5 +1,5 @@
-*Quote of the Day (07/09/2022):*
+*Quote of the Day (07/10/2022):*
 
-_**You are very powerful, provided you know how powerful you are.**_
+_**Whether you think you can or think you can't, you're right..**_
 
-Yogi Bhajan
+Henry Ford
