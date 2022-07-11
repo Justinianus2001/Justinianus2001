@@ -1,5 +1,5 @@
-*Quote of the Day (07/10/2022):*
+*Quote of the Day (07/11/2022):*
 
-_**Whether you think you can or think you can't, you're right..**_
+_**You must be the change you want to see in the world..**_
 
-Henry Ford
+M.K. Gandhi
