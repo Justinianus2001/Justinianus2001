@@ -1,5 +1,5 @@
-*Quote of the Day (07/11/2022):*
+*Quote of the Day (07/12/2022):*
 
-_**You must be the change you want to see in the world..**_
+_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
 
-M.K. Gandhi
+Vince Lombardi
