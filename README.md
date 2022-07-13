@@ -1,5 +1,5 @@
-*Quote of the Day (07/12/2022):*
+*Quote of the Day (07/13/2022):*
 
-_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
+_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
 
-Vince Lombardi
+Honore de Balzac
