@@ -1,5 +1,5 @@
-*Quote of the Day (07/13/2022):*
+*Quote of the Day (07/14/2022):*
 
-_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
+_**Let go of who you think you're supposed to be; embrace who you are.**_
 
-Honore de Balzac
+Brene Brown
