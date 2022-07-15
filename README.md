@@ -1,5 +1,5 @@
-*Quote of the Day (07/14/2022):*
+*Quote of the Day (07/15/2022):*
 
-_**Let go of who you think you're supposed to be; embrace who you are.**_
+_**Remember that you are very special, no one can play your role better than you.**_
 
-Brene Brown
+Damayanti Patra
