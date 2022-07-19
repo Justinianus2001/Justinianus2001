@@ -1,5 +1,5 @@
-*Quote of the Day (07/18/2022):*
+*Quote of the Day (07/19/2022):*
 
-_**I know for sure that what we dwell on is who we become.**_
+_**It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.**_
 
-Oprah Winfrey
+Mohamad Ali
