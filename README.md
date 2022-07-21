@@ -1,5 +1,5 @@
-*Quote of the Day (07/20/2022):*
+*Quote of the Day (07/21/2022):*
 
-_**Never waste your time trying to explain who you are to people who are committed to misunderstanding you.**_
+_**A quitter never wins and a winner never quits**_
 
-Dream Hampton
+Napoleon Hill
