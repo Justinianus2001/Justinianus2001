@@ -1,5 +1,5 @@
-*Quote of the Day (07/21/2022):*
+*Quote of the Day (07/22/2022):*
 
-_**A quitter never wins and a winner never quits**_
+_**Sometimes the bravest and most important thing you can do is just show up.**_
 
-Napoleon Hill
+Brene Brown
