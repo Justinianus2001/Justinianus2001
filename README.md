@@ -1,5 +1,5 @@
-*Quote of the Day (07/23/2022):*
+*Quote of the Day (07/24/2022):*
 
-_**Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.**_
+_**Don't be tempted to break momentum-work through it.**_
 
-William James Moore
+Lorii Myers
