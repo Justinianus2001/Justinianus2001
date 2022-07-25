@@ -1,5 +1,5 @@
-*Quote of the Day (07/24/2022):*
+*Quote of the Day (07/25/2022):*
 
-_**Don't be tempted to break momentum-work through it.**_
+_**You will never win if you never begin.**_
 
-Lorii Myers
+Helen Rowland
