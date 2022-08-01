@@ -1,5 +1,5 @@
-*Quote of the Day (07/31/2022):*
+*Quote of the Day (08/01/2022):*
 
-_**Where there is ruin, there is hope for a treasure.**_
+_**You are very powerful, provided you know how powerful you are.**_
 
-Rumi
+Yogi Bhajan
