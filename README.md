@@ -1,5 +1,5 @@
-*Quote of the Day (08/01/2022):*
+*Quote of the Day (08/02/2022):*
 
-_**You are very powerful, provided you know how powerful you are.**_
+_**Beyond a certain point there is no return. This point has to be reached.**_
 
-Yogi Bhajan
+Franz Kafka
