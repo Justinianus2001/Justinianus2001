@@ -1,5 +1,5 @@
-*Quote of the Day (08/03/2022):*
+*Quote of the Day (08/04/2022):*
 
-_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
 
-Christiane Northrup
+Dale Carnegie
