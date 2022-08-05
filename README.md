@@ -1,5 +1,5 @@
-*Quote of the Day (08/04/2022):*
+*Quote of the Day (08/05/2022):*
 
-_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
+_**Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.**_
 
-Dale Carnegie
+Thomas Edison
