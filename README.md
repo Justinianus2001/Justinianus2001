@@ -1,5 +1,5 @@
-*Quote of the Day (08/06/2022):*
+*Quote of the Day (08/07/2022):*
 
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**Excellence prospers in the absence of excuses.**_
 
-Japanese Proverb
+Lorii Myers
