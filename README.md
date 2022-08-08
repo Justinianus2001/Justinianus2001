@@ -1,5 +1,5 @@
-*Quote of the Day (08/07/2022):*
+*Quote of the Day (08/08/2022):*
 
-_**Excellence prospers in the absence of excuses.**_
+_**Whether you think you can or think you can't, you're right..**_
 
-Lorii Myers
+Henry Ford
