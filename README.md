@@ -1,5 +1,5 @@
-*Quote of the Day (08/08/2022):*
+*Quote of the Day (08/09/2022):*
 
-_**Whether you think you can or think you can't, you're right..**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Henry Ford
+Paul Brown
