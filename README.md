@@ -1,5 +1,5 @@
-*Quote of the Day (08/15/2022):*
+*Quote of the Day (08/16/2022):*
 
-_**Find a purpose in life so big it will challenge every capacity to be at your best.**_
+_**Do the best you can until you know better. Then when you know better, do better.**_
 
-David O. McKay
+Maya Angelou
