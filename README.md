@@ -1,5 +1,5 @@
-*Quote of the Day (08/20/2022):*
+*Quote of the Day (08/21/2022):*
 
-_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-Vince Lombardi
+Arnold Horshak
