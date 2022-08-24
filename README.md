@@ -1,5 +1,5 @@
-*Quote of the Day (08/23/2022):*
+*Quote of the Day (08/24/2022):*
 
-_**You must be the change you want to see in the world..**_
+_**You make a living by what you earn; you make a life by what you give.**_
 
-M.K. Gandhi
+Winston Churchill
