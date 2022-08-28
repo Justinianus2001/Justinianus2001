@@ -1,5 +1,5 @@
-*Quote of the Day (08/27/2022):*
+*Quote of the Day (08/28/2022):*
 
-_**Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.**_
+_**Luck is a dividend of sweat. The more you sweat, the luckier you get**_
 
-Mark Twain
+Ray Kroc
