@@ -1,5 +1,5 @@
-*Quote of the Day (08/29/2022):*
+*Quote of the Day (08/30/2022):*
 
-_**Stop complaining. Start creating.**_
+_**The determination to win is the better part of winning.**_
 
-Dale Patridge
+Daisaku Ikeda
