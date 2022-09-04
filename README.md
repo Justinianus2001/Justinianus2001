@@ -1,5 +1,5 @@
-*Quote of the Day (09/03/2022):*
+*Quote of the Day (09/04/2022):*
 
-_**Do not let what you cannot do interfere with what you can do.**_
+_**Logic will get you from A to B. Imagination will take you everywhere.**_
 
-John Wooden
+Albert Einstein
