@@ -1,5 +1,5 @@
-*Quote of the Day (09/04/2022):*
+*Quote of the Day (09/05/2022):*
 
-_**Logic will get you from A to B. Imagination will take you everywhere.**_
+_**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**_
 
-Albert Einstein
+Lorii Myers
