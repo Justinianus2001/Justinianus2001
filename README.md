@@ -1,5 +1,5 @@
-*Quote of the Day (09/07/2022):*
+*Quote of the Day (09/08/2022):*
 
-_**When it comes to winning, you need the skill and the will.**_
+_**I know for sure that what we dwell on is who we become.**_
 
-Frank Tyger
+Oprah Winfrey
