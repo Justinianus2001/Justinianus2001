@@ -1,5 +1,5 @@
-*Quote of the Day (09/09/2022):*
+*Quote of the Day (09/10/2022):*
 
-_**All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.**_
+_**A quitter never wins and a winner never quits**_
 
-Niccolo Machiavelli
+Napoleon Hill
