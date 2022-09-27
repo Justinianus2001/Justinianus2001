@@ -1,5 +1,5 @@
-*Quote of the Day (09/26/2022):*
+*Quote of the Day (09/27/2022):*
 
-_**Effort only fully releases its reward after a person refuses to quit.**_
+_**The determination to win is the better part of winning.**_
 
-Napoleon Hill
+Daisaku Ikeda
