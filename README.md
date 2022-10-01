@@ -1,5 +1,5 @@
-*Quote of the Day (09/30/2022):*
+*Quote of the Day (10/01/2022):*
 
-_**Win any way as long as you can get away with it. Nice guys finish last.**_
+_**Winning is not everything, but the effort to win is.**_
 
-Leo Durocher
+Zig Ziglar
