@@ -1,5 +1,5 @@
-*Quote of the Day (10/04/2022):*
+*Quote of the Day (10/05/2022):*
 
-_**It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.**_
+_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
 
-Mohamad Ali
+Sidney Greenberg
