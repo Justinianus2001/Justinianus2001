@@ -1,5 +1,5 @@
-*Quote of the Day (10/05/2022):*
+*Quote of the Day (10/06/2022):*
 
-_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
+_**We lose ourselves in the things we love. We find ourselves there, too.**_
 
-Sidney Greenberg
+Dale Patridge
