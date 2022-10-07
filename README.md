@@ -1,5 +1,5 @@
-*Quote of the Day (10/06/2022):*
+*Quote of the Day (10/07/2022):*
 
-_**We lose ourselves in the things we love. We find ourselves there, too.**_
+_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
 
-Dale Patridge
+Jean Shinoda Bolen
