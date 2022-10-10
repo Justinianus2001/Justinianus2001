@@ -1,5 +1,5 @@
-*Quote of the Day (10/09/2022):*
+*Quote of the Day (10/10/2022):*
 
-_**Great things are done by a series of small things brought together.**_
+_**I know for sure that what we dwell on is who we become.**_
 
-Vincent Van Gogh
+Oprah Winfrey
