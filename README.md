@@ -1,5 +1,5 @@
-*Quote of the Day (10/10/2022):*
+*Quote of the Day (10/11/2022):*
 
-_**I know for sure that what we dwell on is who we become.**_
+_**There's such a thin line between winning and losing.**_
 
-Oprah Winfrey
+John R. Tunis
