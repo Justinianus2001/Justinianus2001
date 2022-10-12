@@ -1,5 +1,5 @@
-*Quote of the Day (10/11/2022):*
+*Quote of the Day (10/12/2022):*
 
-_**There's such a thin line between winning and losing.**_
+_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
 
-John R. Tunis
+Honore de Balzac
