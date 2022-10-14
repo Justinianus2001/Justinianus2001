@@ -1,5 +1,5 @@
-*Quote of the Day (10/13/2022):*
+*Quote of the Day (10/14/2022):*
 
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-Japanese Proverb
+Arnold Horshak
