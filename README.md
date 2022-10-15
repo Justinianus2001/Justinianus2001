@@ -1,5 +1,5 @@
-*Quote of the Day (10/14/2022):*
+*Quote of the Day (10/15/2022):*
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Arnold Horshak
+Brene Brown
