@@ -1,5 +1,5 @@
-*Quote of the Day (10/15/2022):*
+*Quote of the Day (10/16/2022):*
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**Even if you're on the right track, you'll get run over if you just sit there..**_
 
-Brene Brown
+Will Rogers
