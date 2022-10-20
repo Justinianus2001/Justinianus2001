@@ -1,5 +1,5 @@
-*Quote of the Day (10/18/2022):*
+*Quote of the Day (10/20/2022):*
 
-_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
+_**At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.**_
 
-Phil Grimshaw
+Lorii Myers
