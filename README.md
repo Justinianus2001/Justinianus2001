@@ -1,5 +1,5 @@
-*Quote of the Day (10/21/2022):*
+*Quote of the Day (10/22/2022):*
 
-_**If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.**_
+_**Stop complaining. Start creating.**_
 
-Jack Ma
+Dale Patridge
