@@ -1,5 +1,5 @@
-*Quote of the Day (10/22/2022):*
+*Quote of the Day (10/23/2022):*
 
-_**Stop complaining. Start creating.**_
+_**Think in terms of opportunities and solutions instead of problems, disappointment, and failure.**_
 
-Dale Patridge
+Lorii Myers
