@@ -1,5 +1,5 @@
-*Quote of the Day (10/24/2022):*
+*Quote of the Day (10/25/2022):*
 
-_**Don't count the days; make the days count.**_
+_**The journey of a thousand miles begins with one step.**_
 
-Mohamad Ali
+Lao Tzu
