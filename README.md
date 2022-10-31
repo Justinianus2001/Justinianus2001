@@ -1,5 +1,5 @@
-*Quote of the Day (10/30/2022):*
+*Quote of the Day (10/31/2022):*
 
-_**A man who has no imagination has no wings.**_
+_**Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.**_
 
-Mohamad Ali
+Dale Patridge
