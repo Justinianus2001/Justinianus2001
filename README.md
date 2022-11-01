@@ -1,5 +1,5 @@
-*Quote of the Day (10/31/2022):*
+*Quote of the Day (11/01/2022):*
 
-_**Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
-Dale Patridge
+Winston Churchill
