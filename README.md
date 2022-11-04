@@ -1,5 +1,5 @@
-*Quote of the Day (11/02/2022):*
+*Quote of the Day (11/04/2022):*
 
-_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
+_**It wasn't raining when Noah built the ark..**_
 
-Martina Navratilova
+Howard Ruff
