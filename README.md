@@ -1,5 +1,5 @@
-*Quote of the Day (11/04/2022):*
+*Quote of the Day (11/05/2022):*
 
-_**It wasn't raining when Noah built the ark..**_
+_**Stress is like a pulse, if you have it you are alive.**_
 
-Howard Ruff
+Steve Maraboli
