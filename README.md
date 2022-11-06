@@ -1,5 +1,5 @@
-*Quote of the Day (11/05/2022):*
+*Quote of the Day (11/06/2022):*
 
-_**Stress is like a pulse, if you have it you are alive.**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Steve Maraboli
+Brene Brown
