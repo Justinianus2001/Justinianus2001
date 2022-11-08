@@ -1,5 +1,5 @@
-*Quote of the Day (11/06/2022):*
+*Quote of the Day (11/08/2022):*
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**The best way to predict the future is to create it.**_
 
-Brene Brown
+Abraham Lincoln
