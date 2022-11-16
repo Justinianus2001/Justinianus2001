@@ -1,5 +1,5 @@
-*Quote of the Day (11/14/2022):*
+*Quote of the Day (11/16/2022):*
 
-_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
+_**Luck is a dividend of sweat. The more you sweat, the luckier you get**_
 
-Honore de Balzac
+Ray Kroc
