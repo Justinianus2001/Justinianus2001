@@ -1,5 +1,5 @@
-*Quote of the Day (11/16/2022):*
+*Quote of the Day (11/20/2022):*
 
-_**Luck is a dividend of sweat. The more you sweat, the luckier you get**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Ray Kroc
+Carl Lewis
