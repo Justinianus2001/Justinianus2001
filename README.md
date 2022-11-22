@@ -1,5 +1,5 @@
-*Quote of the Day (11/20/2022):*
+*Quote of the Day (11/22/2022):*
 
-_**If you don't have confidence, you'll always find a way not to win**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Carl Lewis
+Japanese Proverb
