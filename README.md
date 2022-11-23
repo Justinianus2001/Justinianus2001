@@ -1,5 +1,5 @@
-*Quote of the Day (11/22/2022):*
+*Quote of the Day (11/23/2022):*
 
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**Do the best you can until you know better. Then when you know better, do better.**_
 
-Japanese Proverb
+Maya Angelou
