@@ -1,5 +1,5 @@
-*Quote of the Day (11/23/2022):*
+*Quote of the Day (11/28/2022):*
 
-_**Do the best you can until you know better. Then when you know better, do better.**_
+_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
 
-Maya Angelou
+Isaac Lidsky
