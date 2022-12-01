@@ -1,5 +1,5 @@
-*Quote of the Day (11/28/2022):*
+*Quote of the Day (12/01/2022):*
 
-_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
+_**A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.**_
 
-Isaac Lidsky
+Anonymous
