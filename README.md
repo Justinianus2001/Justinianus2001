@@ -1,5 +1,5 @@
-*Quote of the Day (12/01/2022):*
+*Quote of the Day (12/09/2022):*
 
-_**A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.**_
+_**Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.**_
 
-Anonymous
+Voltaire
