@@ -1,5 +1,5 @@
-*Quote of the Day (12/09/2022):*
+*Quote of the Day (12/10/2022):*
 
-_**Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.**_
+_**Once your excuses are gone, you will simply have to settle for being awesome!**_
 
-Voltaire
+Lorii Myers
