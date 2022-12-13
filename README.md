@@ -1,5 +1,5 @@
-*Quote of the Day (12/12/2022):*
+*Quote of the Day (12/13/2022):*
 
-_**Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.**_
+_**Let go of who you think you're supposed to be; embrace who you are.**_
 
-Henry Cloud
+Brene Brown
