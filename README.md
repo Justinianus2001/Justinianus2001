@@ -1,5 +1,5 @@
-*Quote of the Day (12/17/2022):*
+*Quote of the Day (12/18/2022):*
 
-_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
+_**Your life does not get better by chance. It gets better by change.**_
 
-Bel Pesce
+Jim Rohn
