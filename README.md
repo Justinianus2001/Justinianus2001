@@ -1,5 +1,5 @@
-*Quote of the Day (12/18/2022):*
+*Quote of the Day (12/19/2022):*
 
-_**Your life does not get better by chance. It gets better by change.**_
+_**Where there is ruin, there is hope for a treasure.**_
 
-Jim Rohn
+Rumi
