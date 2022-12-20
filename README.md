@@ -1,5 +1,5 @@
-*Quote of the Day (12/19/2022):*
+*Quote of the Day (12/20/2022):*
 
-_**Where there is ruin, there is hope for a treasure.**_
+_**Win any way as long as you can get away with it. Nice guys finish last.**_
 
-Rumi
+Leo Durocher
