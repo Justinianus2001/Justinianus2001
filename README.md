@@ -1,5 +1,5 @@
-*Quote of the Day (12/20/2022):*
+*Quote of the Day (12/21/2022):*
 
-_**Win any way as long as you can get away with it. Nice guys finish last.**_
+_**Failure is the condiment that gives success its flavor.**_
 
-Leo Durocher
+Truman Capote
