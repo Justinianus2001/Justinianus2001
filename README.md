@@ -1,5 +1,5 @@
-*Quote of the Day (12/21/2022):*
+*Quote of the Day (12/22/2022):*
 
-_**Failure is the condiment that gives success its flavor.**_
+_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
 
-Truman Capote
+Veronica A. Shoffstall
