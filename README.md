@@ -1,5 +1,5 @@
-*Quote of the Day (12/22/2022):*
+*Quote of the Day (12/23/2022):*
 
-_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
+_**Whether you think you can or think you can't, you're right..**_
 
-Veronica A. Shoffstall
+Henry Ford
