@@ -1,5 +1,5 @@
-*Quote of the Day (12/23/2022):*
+*Quote of the Day (12/24/2022):*
 
-_**Whether you think you can or think you can't, you're right..**_
+_**Find a purpose in life so big it will challenge every capacity to be at your best.**_
 
-Henry Ford
+David O. McKay
