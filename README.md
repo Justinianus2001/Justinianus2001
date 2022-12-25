@@ -1,5 +1,5 @@
-*Quote of the Day (12/24/2022):*
+*Quote of the Day (12/25/2022):*
 
-_**Find a purpose in life so big it will challenge every capacity to be at your best.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
-David O. McKay
+Winston Churchill
