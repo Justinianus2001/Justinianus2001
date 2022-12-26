@@ -1,5 +1,5 @@
-*Quote of the Day (12/25/2022):*
+*Quote of the Day (12/26/2022):*
 
-_**Let our advance worrying become advance thinking and planning.**_
+_**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**_
 
-Winston Churchill
+Lorii Myers
