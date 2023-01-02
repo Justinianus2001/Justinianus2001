@@ -1,5 +1,5 @@
-*Quote of the Day (01/01/2023):*
+*Quote of the Day (01/02/2023):*
 
-_**You must have a positive self perception in order to transcend anything.**_
+_**Excellence prospers in the absence of excuses.**_
 
-Steve Maraboli
+Lorii Myers
