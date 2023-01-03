@@ -1,5 +1,5 @@
-*Quote of the Day (01/02/2023):*
+*Quote of the Day (01/03/2023):*
 
-_**Excellence prospers in the absence of excuses.**_
+_**Remember that you are very special, no one can play your role better than you.**_
 
-Lorii Myers
+Damayanti Patra
