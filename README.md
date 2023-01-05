@@ -1,5 +1,5 @@
-*Quote of the Day (01/03/2023):*
+*Quote of the Day (01/05/2023):*
 
-_**Remember that you are very special, no one can play your role better than you.**_
+_**One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.**_
 
-Damayanti Patra
+Barack Obama
