@@ -1,5 +1,5 @@
-*Quote of the Day (01/07/2023):*
+*Quote of the Day (01/08/2023):*
 
-_**The idea that everyone should slavishly work so they do something inefficiently so they keep their job - that just doesn't make any sense to me. That can't be the right answer.**_
+_**I know for sure that what we dwell on is who we become.**_
 
-Larry Page
+Oprah Winfrey
