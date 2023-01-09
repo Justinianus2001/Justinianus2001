@@ -1,5 +1,5 @@
-*Quote of the Day (01/08/2023):*
+*Quote of the Day (01/09/2023):*
 
-_**I know for sure that what we dwell on is who we become.**_
+_**Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.**_
 
-Oprah Winfrey
+Matthew Keith Groves
