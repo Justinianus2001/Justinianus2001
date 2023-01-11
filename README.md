@@ -1,5 +1,5 @@
-*Quote of the Day (01/10/2023):*
+*Quote of the Day (01/11/2023):*
 
-_**A man who has no imagination has no wings.**_
+_**The journey of a thousand miles begins with one step.**_
 
-Mohamad Ali
+Lao Tzu
