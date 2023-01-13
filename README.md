@@ -1,5 +1,5 @@
-*Quote of the Day (01/12/2023):*
+*Quote of the Day (01/13/2023):*
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Winning is not everything, but the effort to win is.**_
 
-Arnold Horshak
+Zig Ziglar
