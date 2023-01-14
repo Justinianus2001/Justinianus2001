@@ -1,5 +1,5 @@
-*Quote of the Day (01/13/2023):*
+*Quote of the Day (01/14/2023):*
 
-_**Winning is not everything, but the effort to win is.**_
+_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
 
-Zig Ziglar
+Isaac Lidsky
