@@ -1,8 +1,5 @@
-*Quote of the Day (01/21/2023):*
+*Quote of the Day (01/22/2023):*
 
-_**One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.**_
+_**Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.**_
 
-Bruce Lee
+Henry David Thoreau
