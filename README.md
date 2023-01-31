@@ -1,5 +1,5 @@
-*Quote of the Day (01/30/2023):*
+*Quote of the Day (01/31/2023):*
 
-_**If we ever stop thinking about the person we want to become, we stop learning and taking risks.**_
+_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
 
-Sally Blount
+Charles F. Kettering
