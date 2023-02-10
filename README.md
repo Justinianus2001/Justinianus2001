@@ -1,5 +1,5 @@
-*Quote of the Day (02/09/2023):*
+*Quote of the Day (02/10/2023):*
 
-_**Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.**_
+_**Don't be tempted to break momentum-work through it.**_
 
-Napoleon Bonaparte
+Lorii Myers
