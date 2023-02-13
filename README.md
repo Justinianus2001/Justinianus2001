@@ -1,5 +1,5 @@
-*Quote of the Day (02/12/2023):*
+*Quote of the Day (02/13/2023):*
 
-_**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**_
+_**Persistence is very important. You should not give up unless you are forced to give up.**_
 
-Lorii Myers
+Elon Musk
