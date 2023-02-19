@@ -1,5 +1,5 @@
-*Quote of the Day (02/18/2023):*
+*Quote of the Day (02/19/2023):*
 
-_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
+_**Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.**_
 
-Jean Shinoda Bolen
+Stephen Richards
