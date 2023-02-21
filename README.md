@@ -1,5 +1,5 @@
-*Quote of the Day (02/20/2023):*
+*Quote of the Day (02/21/2023):*
 
-_**If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.**_
+_**Stop complaining. Start creating.**_
 
-Kevin Turner 
+Dale Patridge
