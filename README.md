@@ -1,5 +1,5 @@
-*Quote of the Day (02/22/2023):*
+*Quote of the Day (02/23/2023):*
 
-_**If you cannot do great things, do small things in a great way.**_
+_**Failure is the condiment that gives success its flavor.**_
 
-Napoleon Hill
+Truman Capote
