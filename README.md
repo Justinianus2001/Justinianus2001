@@ -1,5 +1,5 @@
-*Quote of the Day (02/23/2023):*
+*Quote of the Day (02/24/2023):*
 
-_**Failure is the condiment that gives success its flavor.**_
+_**Things are not bad in themselves, but our cowardice makes them so.**_
 
-Truman Capote
+Michel de Montaigne
