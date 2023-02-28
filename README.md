@@ -1,5 +1,5 @@
-*Quote of the Day (02/27/2023):*
+*Quote of the Day (02/28/2023):*
 
-_**The man who has confidence in himself gains the confidence of others.**_
+_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
 
-Hasidic Proverb
+Dale Carnegie
