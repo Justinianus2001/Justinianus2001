@@ -1,5 +1,5 @@
-*Quote of the Day (03/02/2023):*
+*Quote of the Day (03/03/2023):*
 
-_**Stress is like a pulse, if you have it you are alive.**_
+_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
 
-Steve Maraboli
+Veronica A. Shoffstall
