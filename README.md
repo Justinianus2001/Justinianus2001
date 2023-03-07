@@ -1,5 +1,5 @@
-*Quote of the Day (03/06/2023):*
+*Quote of the Day (03/07/2023):*
 
-_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
+_**There's such a thin line between winning and losing.**_
 
-Larry Page
+John R. Tunis
