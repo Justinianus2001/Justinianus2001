@@ -1,5 +1,5 @@
-*Quote of the Day (03/08/2023):*
+*Quote of the Day (03/09/2023):*
 
-_**Whether you think you can or think you can't, you're right..**_
+_**Effort only fully releases its reward after a person refuses to quit.**_
 
-Henry Ford
+Napoleon Hill
