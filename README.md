@@ -1,5 +1,5 @@
-*Quote of the Day (03/17/2023):*
+*Quote of the Day (03/18/2023):*
 
-_**I am an optimist. It does not seem too much use being anything else..**_
+_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
 
-Winston Churchill
+Phil Grimshaw
