@@ -1,5 +1,5 @@
-*Quote of the Day (03/19/2023):*
+*Quote of the Day (03/20/2023):*
 
-_**Sustenance! Your health is always the best prescription.**_
+_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
 
-Lorii Myers
+Bel Pesce
