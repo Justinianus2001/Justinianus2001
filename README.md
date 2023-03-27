@@ -1,5 +1,5 @@
-*Quote of the Day (03/26/2023):*
+*Quote of the Day (03/27/2023):*
 
-_**When there is no distraction, there is clarity.**_
+_**Do not let what you cannot do interfere with what you can do.**_
 
-Lorii Myers
+John Wooden
