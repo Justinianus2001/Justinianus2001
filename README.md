@@ -1,5 +1,5 @@
-*Quote of the Day (03/27/2023):*
+*Quote of the Day (03/28/2023):*
 
-_**Do not let what you cannot do interfere with what you can do.**_
+_**Do the best you can until you know better. Then when you know better, do better.**_
 
-John Wooden
+Maya Angelou
