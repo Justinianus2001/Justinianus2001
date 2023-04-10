@@ -1,4 +1,4 @@
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 1;
 const axios = require("axios");
 const fs = require("fs");
 
@@ -9,7 +9,7 @@ const getQuote = async () => {
     const author = data.contents.quotes[0].author === null ? `Anonymous` : data.contents.quotes[0].author;
 
     console.log("new quote", `"${quote}"`);
-	console.log("author", `"${author}"`);
+	  console.log("author", `"${author}"`);
 
     return {
       quote,

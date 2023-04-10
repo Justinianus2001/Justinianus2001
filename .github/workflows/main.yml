@@ -13,7 +13,9 @@ jobs:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
       with:
-        node-version: 12.16.1
+        node-version: 16.20.0
+    - run: npm i --package-lock-only
+    - run: npm install
     - run: npm ci
     - name: Generate quote
       run: npm run generate
@@ -23,4 +25,4 @@ jobs:
         git config --global user.name "Justinianus2001"
         git add .
         git commit -m "Updated README.md" || echo "No changes to commit"
-        git push
+        git push -f
