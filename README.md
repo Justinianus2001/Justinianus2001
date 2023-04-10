@@ -1,5 +1,5 @@
-*Quote of the Day (04/04/2023):*
+*Quote of the Day (04/10/2023):*
 
-_**Hang Out with People Who are Better than You.**_
+_**Winning isn't everything.. It's the only thing.**_
 
-Warren Buffett
+Vincent van Gogh
