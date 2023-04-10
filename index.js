@@ -4,7 +4,12 @@ const fs = require("fs");
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://quotes.rest/qod?language=en");
+    const TOKEN = "tdxyrjClg0K49mbOjD5Yamij9L5F0L7EuOVSgLPb"
+    const { data } = await axios.get("https://quotes.rest/qod?language=en", {
+      headers: {
+        "Authorization": `Bearer ${TOKEN}`,
+      }
+    });
     const quote = data.contents.quotes[0].quote;
     const author = data.contents.quotes[0].author === null ? `Anonymous` : data.contents.quotes[0].author;
 
