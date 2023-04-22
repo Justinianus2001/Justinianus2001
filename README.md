@@ -1,5 +1,5 @@
-*Quote of the Day (04/21/2023):*
+*Quote of the Day (04/22/2023):*
 
-_**By failing to prepare, you are preparing to fail.**_
+_**It wasn't raining when Noah built the ark..**_
 
-Benjamin Franklin
+Howard Ruff
