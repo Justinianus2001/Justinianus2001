@@ -1,5 +1,5 @@
-*Quote of the Day (04/28/2023):*
+*Quote of the Day (04/29/2023):*
 
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-Japanese Proverb
+Winston Churchill
