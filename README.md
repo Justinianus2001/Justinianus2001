@@ -1,5 +1,5 @@
-*Quote of the Day (05/01/2023):*
+*Quote of the Day (05/02/2023):*
 
-_**Positive anything is better than negative thinking.**_
+_**Do not wait to strike till the iron is hot; but make it hot by striking..**_
 
-Elbert Hubbard
+William B. Sprague
