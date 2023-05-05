@@ -1,5 +1,5 @@
-*Quote of the Day (05/03/2023):*
+*Quote of the Day (05/05/2023):*
 
-_**I know for sure that what we dwell on is who we become.**_
+_**If you want to make your dreams come true, the first thing you have to do is wake up.**_
 
-Oprah Winfrey
+J.M. Power
