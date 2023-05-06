@@ -1,5 +1,5 @@
-*Quote of the Day (05/05/2023):*
+*Quote of the Day (05/06/2023):*
 
-_**If you want to make your dreams come true, the first thing you have to do is wake up.**_
+_**Life is 10% what happens to us and 90% how we react to it.**_
 
-J.M. Power
+Dennis P. Kimbro
