@@ -1,5 +1,5 @@
-*Quote of the Day (05/13/2023):*
+*Quote of the Day (05/14/2023):*
 
-_**Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.**_
+_**You make a living by what you earn; you make a life by what you give.**_
 
-Thomas Edison
+Winston Churchill
