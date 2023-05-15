@@ -1,5 +1,5 @@
-*Quote of the Day (05/14/2023):*
+*Quote of the Day (05/15/2023):*
 
-_**You make a living by what you earn; you make a life by what you give.**_
+_**The journey of a thousand miles begins with one step.**_
 
-Winston Churchill
+Lao Tzu
