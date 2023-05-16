@@ -1,5 +1,5 @@
-*Quote of the Day (05/15/2023):*
+*Quote of the Day (05/16/2023):*
 
-_**The journey of a thousand miles begins with one step.**_
+_**We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.**_
 
-Lao Tzu
+Sheryl Sandberg
