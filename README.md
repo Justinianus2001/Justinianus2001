@@ -1,5 +1,5 @@
-*Quote of the Day (05/16/2023):*
+*Quote of the Day (05/17/2023):*
 
-_**We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.**_
+_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
 
-Sheryl Sandberg
+Daireth Winehouse
