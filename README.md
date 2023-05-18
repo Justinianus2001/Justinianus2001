@@ -1,5 +1,5 @@
-*Quote of the Day (05/17/2023):*
+*Quote of the Day (05/18/2023):*
 
-_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
+_**The determination to win is the better part of winning.**_
 
-Daireth Winehouse
+Daisaku Ikeda
