@@ -1,5 +1,5 @@
-*Quote of the Day (05/21/2023):*
+*Quote of the Day (05/22/2023):*
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Failure is the condiment that gives success its flavor.**_
 
-Arnold Horshak
+Truman Capote
