@@ -1,5 +1,5 @@
-*Quote of the Day (05/22/2023):*
+*Quote of the Day (05/23/2023):*
 
-_**Failure is the condiment that gives success its flavor.**_
+_**Named must your fear be before banish it you can.**_
 
-Truman Capote
+Yoda
