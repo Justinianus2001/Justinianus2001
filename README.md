@@ -1,5 +1,5 @@
-*Quote of the Day (05/23/2023):*
+*Quote of the Day (05/24/2023):*
 
-_**Named must your fear be before banish it you can.**_
+_**Logic will get you from A to B. Imagination will take you everywhere.**_
 
-Yoda
+Albert Einstein
