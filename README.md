@@ -1,5 +1,5 @@
-*Quote of the Day (05/24/2023):*
+*Quote of the Day (05/25/2023):*
 
-_**Logic will get you from A to B. Imagination will take you everywhere.**_
+_**If your actions inspire others to dream more, learn more, do more and become more, you are a leader.**_
 
-Albert Einstein
+John Quincy Adams
