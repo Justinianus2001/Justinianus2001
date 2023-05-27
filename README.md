@@ -1,5 +1,5 @@
-*Quote of the Day (05/26/2023):*
+*Quote of the Day (05/27/2023):*
 
-_**Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of other's opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.**_
+_**Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.**_
 
-Steve Jobs
+Voltaire
