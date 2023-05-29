@@ -1,5 +1,5 @@
-*Quote of the Day (05/28/2023):*
+*Quote of the Day (05/29/2023):*
 
-_**When you win, say nothing. When you lose, say less.**_
+_**There's such a thin line between winning and losing.**_
 
-Paul Brown
+John R. Tunis
