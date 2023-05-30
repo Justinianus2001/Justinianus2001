@@ -1,5 +1,5 @@
-*Quote of the Day (05/29/2023):*
+*Quote of the Day (05/30/2023):*
 
-_**There's such a thin line between winning and losing.**_
+_**Luck is a dividend of sweat. The more you sweat, the luckier you get**_
 
-John R. Tunis
+Ray Kroc
