@@ -1,5 +1,5 @@
-*Quote of the Day (05/31/2023):*
+*Quote of the Day (06/01/2023):*
 
-_**If you want to test your memory, try to recall what you were worrying about one year ago today.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
-E. Joseph Cossman
+Winston Churchill
