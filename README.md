@@ -1,5 +1,5 @@
-*Quote of the Day (06/01/2023):*
+*Quote of the Day (06/02/2023):*
 
-_**Let our advance worrying become advance thinking and planning.**_
+_**Think ahead. Don't let day-to-day operations drive out planning.**_
 
-Winston Churchill
+Donald Rumsfeld
