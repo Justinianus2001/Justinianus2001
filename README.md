@@ -1,5 +1,5 @@
-*Quote of the Day (06/02/2023):*
+*Quote of the Day (06/03/2023):*
 
-_**Think ahead. Don't let day-to-day operations drive out planning.**_
+_**Winners have simply formed the habit of doing things losers don't like to do**_
 
-Donald Rumsfeld
+Albert Gray
