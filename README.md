@@ -1,5 +1,5 @@
-*Quote of the Day (06/03/2023):*
+*Quote of the Day (06/04/2023):*
 
-_**Winners have simply formed the habit of doing things losers don't like to do**_
+_**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**_
 
-Albert Gray
+Barbara Pletcher
