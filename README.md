@@ -1,5 +1,5 @@
-*Quote of the Day (06/05/2023):*
+*Quote of the Day (06/06/2023):*
 
-_**A quitter never wins and a winner never quits**_
+_**Winning isn't everything.. It's the only thing.**_
 
-Napoleon Hill
+Vincent van Gogh
