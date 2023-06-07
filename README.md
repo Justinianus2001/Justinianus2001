@@ -1,5 +1,5 @@
-*Quote of the Day (06/06/2023):*
+*Quote of the Day (06/07/2023):*
 
-_**Winning isn't everything.. It's the only thing.**_
+_**Those who know how to win are much more numerous than those who know how to make proper use of their victories**_
 
-Vincent van Gogh
+Polybius
