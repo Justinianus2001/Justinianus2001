@@ -1,5 +1,5 @@
-*Quote of the Day (06/08/2023):*
+*Quote of the Day (06/09/2023):*
 
-_**When it comes to winning, you need the skill and the will.**_
+_**Win any way as long as you can get away with it. Nice guys finish last.**_
 
-Frank Tyger
+Leo Durocher
