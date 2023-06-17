@@ -1,5 +1,5 @@
-*Quote of the Day (06/16/2023):*
+*Quote of the Day (06/17/2023):*
 
-_**Where there is ruin, there is hope for a treasure.**_
+_**Remember that you are very special, no one can play your role better than you.**_
 
-Rumi
+Damayanti Patra
