@@ -1,5 +1,5 @@
-*Quote of the Day (06/20/2023):*
+*Quote of the Day (06/21/2023):*
 
-_**It wasn't raining when Noah built the ark..**_
+_**Even if you're on the right track, you'll get run over if you just sit there..**_
 
-Howard Ruff
+Will Rogers
