@@ -1,5 +1,5 @@
-*Quote of the Day (06/21/2023):*
+*Quote of the Day (06/22/2023):*
 
-_**Even if you're on the right track, you'll get run over if you just sit there..**_
+_**People who are crazy enough to think they can change the world, are the ones who do.**_
 
-Will Rogers
+Apple Computers
