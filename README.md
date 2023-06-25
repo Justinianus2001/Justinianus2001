@@ -1,5 +1,5 @@
-*Quote of the Day (06/24/2023):*
+*Quote of the Day (06/25/2023):*
 
-_**Whether you think you can or think you can't, you're right..**_
+_**The man who removes a mountain begins by carrying away small stones..**_
 
-Henry Ford
+Chinese Proverb
