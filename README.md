@@ -1,5 +1,5 @@
-*Quote of the Day (06/28/2023):*
+*Quote of the Day (06/29/2023):*
 
-_**The best way to predict the future is to create it.**_
+_**Positive anything is better than negative thinking.**_
 
-Abraham Lincoln
+Elbert Hubbard
