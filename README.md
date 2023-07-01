@@ -1,5 +1,5 @@
-*Quote of the Day (06/30/2023):*
+*Quote of the Day (07/01/2023):*
 
-_**Do not wait to strike till the iron is hot; but make it hot by striking..**_
+_**I know for sure that what we dwell on is who we become.**_
 
-William B. Sprague
+Oprah Winfrey
