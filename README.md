@@ -1,5 +1,5 @@
-*Quote of the Day (07/01/2023):*
+*Quote of the Day (07/02/2023):*
 
-_**I know for sure that what we dwell on is who we become.**_
+_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
 
-Oprah Winfrey
+Charles F. Kettering
