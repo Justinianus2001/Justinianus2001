@@ -1,5 +1,5 @@
-*Quote of the Day (07/02/2023):*
+*Quote of the Day (07/03/2023):*
 
-_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
+_**If you want to make your dreams come true, the first thing you have to do is wake up.**_
 
-Charles F. Kettering
+J.M. Power
