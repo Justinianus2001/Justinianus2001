@@ -1,5 +1,5 @@
-*Quote of the Day (07/06/2023):*
+*Quote of the Day (07/07/2023):*
 
-_**The real opportunity for success lies within the person and not in the job.**_
+_**If you cannot do great things, do small things in a great way.**_
 
-Zig Ziglar
+Napoleon Hill
