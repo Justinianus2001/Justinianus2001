@@ -1,5 +1,5 @@
-*Quote of the Day (07/07/2023):*
+*Quote of the Day (07/08/2023):*
 
-_**If you cannot do great things, do small things in a great way.**_
+_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
 
-Napoleon Hill
+Vince Lombardi
