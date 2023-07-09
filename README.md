@@ -1,5 +1,5 @@
-*Quote of the Day (07/08/2023):*
+*Quote of the Day (07/09/2023):*
 
-_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
+_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
 
-Vince Lombardi
+George Bernard Shaw
