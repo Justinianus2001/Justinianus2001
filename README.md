@@ -1,5 +1,5 @@
-*Quote of the Day (07/09/2023):*
+*Quote of the Day (07/10/2023):*
 
-_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
+_**The man who has confidence in himself gains the confidence of others.**_
 
-George Bernard Shaw
+Hasidic Proverb
