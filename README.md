@@ -1,5 +1,5 @@
-*Quote of the Day (07/10/2023):*
+*Quote of the Day (07/11/2023):*
 
-_**The man who has confidence in himself gains the confidence of others.**_
+_**Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.**_
 
-Hasidic Proverb
+Thomas Edison
