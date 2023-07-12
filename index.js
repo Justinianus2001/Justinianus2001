@@ -13,8 +13,8 @@ const getQuote = async () => {
     const quote = data.contents.quotes[0].quote;
     const author = data.contents.quotes[0].author === null ? `Anonymous` : data.contents.quotes[0].author;
 
-    console.log("new quote", `"${quote}"`);
-	  console.log("author", `"${author}"`);
+    console.log("New quote", `"${quote}"`);
+	  console.log("Author", `"${author}"`);
 
     return {
       quote,
@@ -29,8 +29,9 @@ const getQuote = async () => {
 const generate = async () => {
   const { quote, author } = await getQuote();
 
-  if (!quote)
-	return;
+  if (!quote) {
+	  return;
+  }
 
   const curDate = new Date();
   const dd = String(curDate.getDate()).padStart(2, `0`);
@@ -38,7 +39,13 @@ const generate = async () => {
   const yyyy = String(curDate.getFullYear()).padStart(4, `0`);
 
   const today = mm + `/` + dd + `/` + yyyy;
-  fs.writeFileSync("README.md", `*Quote of the Day (${today}):*\n\n_**${quote}**_\n\n${author}`);
+  const readme = `### Hi, I'm Hoang (Justinianus) Le Ngoc from Hue, Vietnam. Nice to meet you !!! ` +
+    `<img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36"/>\n\n` +
+    `*Quote of the Day (${today}):*\n\n_**${quote}**_\n\n${author}\n\n` +
+    `![Contribution Snake Light](https://raw.githubusercontent.com/Justinianus2001/Justinianus2001/output/github-snake-light.svg#gh-light-mode-only)` +
+    `![Contribution Snake Dark](https://raw.githubusercontent.com/Justinianus2001/Justinianus2001/output/github-snake-dark.svg#gh-dark-mode-only)`
+
+  fs.writeFileSync("README.md", readme);
 };
 
 generate();
