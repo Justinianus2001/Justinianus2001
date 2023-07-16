@@ -11,6 +11,7 @@ jobs:
 
     steps:
     - name: Generate github contribution grid snake
+      continue-on-error: true
       uses: Platane/snk/svg-only@v2
       with:
         github_user_name: ${{ github.repository_owner }}
@@ -18,6 +19,7 @@ jobs:
           dist/github-snake-light.svg?color_snake=#ffff00&color_dots=#4489ec,#9be9a8,#40c463,#30a14e,#216e39
           dist/github-snake-dark.svg?color_snake=#ffff00&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
     - name: push github-contribution-grid-snake.svg to the output branch
+      continue-on-error: true
       uses: crazy-max/ghaction-github-pages@v3.1.0
       with:
         target_branch: output
