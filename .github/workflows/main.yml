@@ -1,44 +1,60 @@
 name: quote_generator
 
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
   schedule:
-  - cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
-  build:
+  generate-contribute:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Generate github contribution grid snake
-      continue-on-error: true
-      uses: Platane/snk/svg-only@v2
-      with:
-        github_user_name: ${{ github.repository_owner }}
-        outputs: |
-          dist/github-snake-light.svg?color_snake=#ffff00&color_dots=#4489ec,#9be9a8,#40c463,#30a14e,#216e39
-          dist/github-snake-dark.svg?color_snake=#ffff00&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-    - name: push github-contribution-grid-snake.svg to the output branch
-      continue-on-error: true
-      uses: crazy-max/ghaction-github-pages@v3.1.0
-      with:
-        target_branch: output
-        build_dir: dist
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-      with:
-        node-version: 16.20.0
-    - run: npm i --package-lock-only
-    - run: npm install
-    - run: npm ci
-    - name: Generate quote
-      run: npm run generate
-    - name: Update README.md
-      run: |
-        git config --global user.email "lengochoang681@gmail.com"
-        git config --global user.name "Justinianus2001"
-        git add .
-        git commit -m "Updated README.md" || echo "No changes to commit"
-        git push -f
+      - name: Generate GitHub contribution grid snake
+        continue-on-error: true
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-light.svg?color_snake=#ffff00&color_dots=#4489ec,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-dark.svg?color_snake=#ffff00&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+
+      - name: Push github-contribution-grid-snake.svg to the 'output' branch
+        continue-on-error: true
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  update-readme:
+    needs: generate-contribute
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - run: npm i --package-lock-only
+      - run: npm install
+      - run: npm ci
+
+      - name: Generate quote
+        run: npm run generate
+
+      - name: Update README.md
+        run: |
+          git config --global user.email "lengochoang681@gmail.com"
+          git config --global user.name "Justinianus2001"
+          git add .
+          git commit -m "Updated README.md" || echo "No changes to commit"
+          git push -f
