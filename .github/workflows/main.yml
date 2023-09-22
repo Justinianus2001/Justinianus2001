@@ -2,8 +2,7 @@ name: quote_generator
 
 on:
   push:
-    branches:
-      - master
+    branches: [master]
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
