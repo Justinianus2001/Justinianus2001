@@ -10,3 +10,5 @@ Barack Obama
 ![Contribution Snake Light](https://raw.githubusercontent.com/Justinianus2001/Justinianus2001/output/github-snake-light.svg#gh-light-mode-only)![Contribution Snake Dark](https://raw.githubusercontent.com/Justinianus2001/Justinianus2001/output/github-snake-dark.svg#gh-dark-mode-only)
 
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/Justinianus2001/count.svg)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6PZIUJ)
