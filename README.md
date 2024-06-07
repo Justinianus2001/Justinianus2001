@@ -1,11 +1,11 @@
 [![quote_generator](https://github.com/Justinianus2001/Justinianus2001/actions/workflows/main.yml/badge.svg)](https://github.com/Justinianus2001/Justinianus2001/actions/workflows/main.yml)
 ### Hi, I'm Hoang (Justinianus) Le Ngoc from Hue, Vietnam. Nice to meet you !!! <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36"/>
 
-*Quote of the Day (06/06/2024):*
+*Quote of the Day (06/07/2024):*
 
-_**I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.**_
+_**An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!**_
 
-Elon Musk
+G. Kingsley Ward
 
 ![Contribution Snake Light](https://raw.githubusercontent.com/Justinianus2001/Justinianus2001/output/github-snake-light.svg#gh-light-mode-only)![Contribution Snake Dark](https://raw.githubusercontent.com/Justinianus2001/Justinianus2001/output/github-snake-dark.svg#gh-dark-mode-only)
 
