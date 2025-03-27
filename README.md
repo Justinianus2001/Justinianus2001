@@ -1,11 +1,11 @@
 [![quote_generator](https://github.com/Justinianus2001/Justinianus2001/actions/workflows/main.yml/badge.svg)](https://github.com/Justinianus2001/Justinianus2001/actions/workflows/main.yml)
 ### Hi, I'm Hoang (Justinianus) Le Ngoc from Hue, Vietnam. Nice to meet you !!! <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36"/>
 
-*Quote of the Day (03/26/2025):*
+*Quote of the Day (03/27/2025):*
 
-_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
+_**Your life does not get better by chance. It gets better by change.**_
 
-Daireth Winehouse
+Jim Rohn
 
 ![Contribution Snake Light](https://raw.githubusercontent.com/Justinianus2001/Justinianus2001/output/github-snake-light.svg#gh-light-mode-only)![Contribution Snake Dark](https://raw.githubusercontent.com/Justinianus2001/Justinianus2001/output/github-snake-dark.svg#gh-dark-mode-only)
 
