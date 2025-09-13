@@ -1,5 +1,8 @@
 name: quote_generator
 
+permissions:
+  contents: read
+
 on:
   push:
     branches: [master]
@@ -10,6 +13,8 @@ on:
 jobs:
   generate-contribute:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Generate GitHub contribution grid snake
@@ -33,6 +38,8 @@ jobs:
   update-readme:
     needs: generate-contribute
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
