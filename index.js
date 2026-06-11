@@ -1,10 +1,9 @@
-process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 1;
 const axios = require("axios");
 const fs = require("fs");
 
 const getQuote = async () => {
   try {
-    const TOKEN = "tdxyrjClg0K49mbOjD5Yamij9L5F0L7EuOVSgLPb"
+    const TOKEN = process.env.API_TOKEN;
     const { data } = await axios.get("https://quotes.rest/qod?language=en", {
       headers: {
         "Authorization": `Bearer ${TOKEN}`,

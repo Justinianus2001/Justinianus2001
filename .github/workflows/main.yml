@@ -50,11 +50,11 @@ jobs:
         with:
           node-version: 18
 
-      - run: npm i --package-lock-only
-      - run: npm install
       - run: npm ci
 
       - name: Generate quote
+        env:
+          API_TOKEN: ${{ secrets.API_TOKEN }}
         run: npm run generate
 
       - name: Update README.md
@@ -63,4 +63,4 @@ jobs:
           git config --global user.name "Justinianus2001"
           git add .
           git commit -m "Updated README.md" || echo "No changes to commit"
-          git push -f
+          git push
