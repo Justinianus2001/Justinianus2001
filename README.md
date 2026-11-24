@@ -83,9 +83,9 @@
 ### 💭 Daily Inspiration
 
 <!-- QUOTE:START -->
-> *"_Respond to every call that excites your spirit._*"
+> *"_When a man puts me a question, I judge of his intelligence._*"
 >
-> — **Rumi** *(Updated: 11/24/2026)*
+> — **Umar ibn Al-Khattāb (R.A)** *(Updated: 11/24/2026)*
 <!-- QUOTE:END -->
 
 ---
