@@ -83,9 +83,9 @@
 ### 💭 Daily Inspiration
 
 <!-- QUOTE:START -->
-> *"_Thy lot or portion of life is seeking after thee; therefore be at rest from seeking after it._*"
+> *"_Respond to every call that excites your spirit._*"
 >
-> — **Ali ibn Abi Talib (R.A)** *(Updated: 11/24/2026)*
+> — **Rumi** *(Updated: 11/24/2026)*
 <!-- QUOTE:END -->
 
 ---
