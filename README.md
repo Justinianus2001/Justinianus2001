@@ -120,9 +120,9 @@ I am a **Software Engineer** specializing in **scalable backend architectures** 
 ### 💭 Daily Inspiration
 
 <!-- QUOTE:START -->
-> *"_To Hell With Circumstances; I Create Opportunities._*"
+> *"_Happiness Is When What You Think, What You Say, And What You Do Are In Harmony._*"
 >
-> — **Bruce Lee** *(Updated: 11/25/2026)*
+> — **Mahatma Gandhi** *(Updated: 11/24/2026)*
 <!-- QUOTE:END -->
 
 ---
