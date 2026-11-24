@@ -8,6 +8,7 @@
   <p align="center">
     <a href="./CV_Hoang_Le.pdf"><img src="https://img.shields.io/badge/Resume-View_CV-00F2FE?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Resume" /></a>
     <a href="https://linkedin.com/in/justinianus"><img src="https://img.shields.io/badge/LinkedIn-justinianus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://gitranks.com/profile/Justinianus2001"><img src="https://img.shields.io/badge/GitRanks-Profile-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="GitRanks" /></a>
     <a href="https://github.com/Justinianus2001/my-portfolio"><img src="https://img.shields.io/badge/Portfolio-Interactive_OS-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
     <a href="mailto:lengochoang681@gmail.com"><img src="https://img.shields.io/badge/Gmail-lengochoang681-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
     <a href="https://facebook.com/justinianus2k1"><img src="https://img.shields.io/badge/Facebook-justinianus2k1-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -76,7 +77,7 @@ I am a **Software Engineer** specializing in **scalable backend architectures** 
 | Project / System | Role & Highlight | Tech Stack |
 |:---|:---|:---:|
 | **🏛️ PMSVB (Sun Group Northern Region)** | **AI Integration Lead:** Engineered intelligent OCR pipeline processing 500+ document formats (PDF, DOCX, CAD) and geospatial CAD transformation. | `NestJS` `Python` `Elasticsearch` `Azure Doc Intelligence` `PostgreSQL` |
-| **🖥️ Interactive Desktop OS** | **Creator:** Built a browser-based operating system featuring interactive window management, custom audio synthesis, and retro-modern design. | `JavaScript` `CSS3` `Web Audio API` · [📦 Repo](https://github.com/Justinianus2001/my-portfolio) |
+| **🖥️ Interactive Desktop OS** | **Creator:** Built a browser-based operating system featuring interactive window management, custom audio synthesis, and retro-modern design. | `JavaScript` `CSS3` `Web Audio API` · [📦 Repo](https://github.com/Justinianus2001/my-portfolio) · [![GitRanks](https://gitranks.com/badge/repo/Justinianus2001/my-portfolio/rank.svg)](https://gitranks.com/profile/Justinianus2001) |
 | **🔎 akaOCR & Semantic Search** | **AI Engineer (FPT Software):** Built Vietnamese semantic search with Elasticsearch cosine similarity; trained CV models achieving 95%+ accuracy. | `Python` `Elasticsearch` `YOLO` `OpenCV` `Tesseract` |
 | **🎙️ Gemini AI Pronunciation Guide** | **Author:** Interactive acoustic speech practice guide utilizing Gemini 2.0 Flash API for pronunciation feedback. | `Python` `Gemini 2.0 API` `JavaScript` · [📦 Repo](https://github.com/Justinianus2001/demo-speak-guide) |
 | **🏢 Homing PropTech Portal** | **Software Engineer:** Architected search microservices, indexed 500,000+ real estate listings reducing query latency to <2s. | `NestJS` `PHP` `Elasticsearch` `MySQL` `PostgreSQL` |
@@ -84,7 +85,15 @@ I am a **Software Engineer** specializing in **scalable backend architectures** 
 
 ---
 
-### 📊 GitHub Analytics & Streaks
+### 📊 GitHub Analytics & Developer Ranking
+
+<div align="center">
+  <a href="https://gitranks.com/profile/Justinianus2001">
+    <img src="https://gitranks.com/badge/user/Justinianus2001/rank.svg" alt="GitRanks Developer Ranking" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Justinianus2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
@@ -111,9 +120,9 @@ I am a **Software Engineer** specializing in **scalable backend architectures** 
 ### 💭 Daily Inspiration
 
 <!-- QUOTE:START -->
-> *"_When a man puts me a question, I judge of his intelligence._*"
+> *"_To Hell With Circumstances; I Create Opportunities._*"
 >
-> — **Umar ibn Al-Khattāb (R.A)** *(Updated: 11/24/2026)*
+> — **Bruce Lee** *(Updated: 11/25/2026)*
 <!-- QUOTE:END -->
 
 ---
