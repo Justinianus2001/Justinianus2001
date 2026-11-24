@@ -1,7 +1,7 @@
-name: quote_generator
+name: profile_automation
 
 permissions:
-  contents: read
+  contents: write
 
 on:
   push:
@@ -13,9 +13,6 @@ on:
 jobs:
   generate-contribute:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - name: Generate GitHub contribution grid snake
         continue-on-error: true
@@ -38,29 +35,27 @@ jobs:
   update-readme:
     needs: generate-contribute
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
 
-      - run: npm ci
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Generate quote
+      - name: Generate and inject quote
         env:
           API_TOKEN: ${{ secrets.API_TOKEN }}
         run: npm run generate
 
-      - name: Update README.md
+      - name: Commit and push changes
         run: |
-          git config --global user.email "lengochoang681@gmail.com"
-          git config --global user.name "Justinianus2001"
-          git add .
-          git commit -m "Updated README.md" || echo "No changes to commit"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "chore(profile): update daily quote [skip ci]" || echo "No changes to commit"
           git push
