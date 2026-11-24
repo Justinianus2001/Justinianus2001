@@ -120,9 +120,9 @@ I am a **Software Engineer** specializing in **scalable backend architectures** 
 ### 💭 Daily Inspiration
 
 <!-- QUOTE:START -->
-> *"_Happiness Is When What You Think, What You Say, And What You Do Are In Harmony._*"
+> *"_Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow._*"
 >
-> — **Mahatma Gandhi** *(Updated: 11/24/2026)*
+> — **Benjamin Franklin** *(Updated: 11/24/2026)*
 <!-- QUOTE:END -->
 
 ---
