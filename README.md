@@ -120,9 +120,9 @@ I am a **Software Engineer** specializing in **scalable backend architectures** 
 ### 💭 Daily Inspiration
 
 <!-- QUOTE:START -->
-> *"_Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow._*"
+> *"_The So-Called Peace Path Is Not Peace And It Is Not A Substitute For Jihad And Resistance._*"
 >
-> — **Benjamin Franklin** *(Updated: 11/24/2026)*
+> — **Ahmed Yassin** *(Updated: 11/25/2026)*
 <!-- QUOTE:END -->
 
 ---
