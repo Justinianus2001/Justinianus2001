@@ -120,9 +120,9 @@ I am a **Software Engineer** specializing in **scalable backend architectures** 
 ### 💭 Daily Inspiration
 
 <!-- QUOTE:START -->
-> *"_I've wrestled with alligators, I've tussled with a whale. I done handcuffed lightning and thrown thunder in jail. You know I'm bad. Just last week, I murdered a rock, injured a stone, hospitalized a brick. I'm so mean, I make medicine sick._*"
+> *"_Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered._*"
 >
-> — **Muhammad Ali** *(Updated: 11/26/2026)*
+> — **Aristotle** *(Updated: 11/27/2026)*
 <!-- QUOTE:END -->
 
 ---
