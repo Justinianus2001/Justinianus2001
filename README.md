@@ -120,9 +120,9 @@ I am a **Software Engineer** specializing in **scalable backend architectures** 
 ### 💭 Daily Inspiration
 
 <!-- QUOTE:START -->
-> *"_Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered._*"
+> *"_I Want To Know All Gods Thoughts; All The Rest Are Just Details._*"
 >
-> — **Aristotle** *(Updated: 11/27/2026)*
+> — **Albert Einstein** *(Updated: 11/28/2026)*
 <!-- QUOTE:END -->
 
 ---
